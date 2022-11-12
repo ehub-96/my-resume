@@ -6,7 +6,7 @@ import { EyeFill } from 'react-bootstrap-icons';
 const Card = ({props}) => {
 
   const images = {
-    'myfavoritebandsdashboard':{
+    'plotlydash':{
       img: plotlydash
     }
   }
