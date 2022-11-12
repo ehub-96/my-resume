@@ -95,6 +95,11 @@ a {
   color: #D23737 !important;
   padding: 1em;
 }
+.card-text2 {
+  color: white;
+  padding: 1em;
+  text-align: center
+}
 .component-container .custom-card .card-title {
   color: #D23737 !important;
 }
