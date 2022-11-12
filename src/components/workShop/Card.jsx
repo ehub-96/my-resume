@@ -1,7 +1,7 @@
 import React from 'react'
 import plotlydash from '../../assets/card-image/plotlydashlogo.png'
 import powerbi from '../../assets/card-image/powerbi.png'
-
+import tableau from '../../assets/card-image/tableau.png'
 import { EyeFill } from 'react-bootstrap-icons';
 
 const Card = ({props}) => {
@@ -12,6 +12,9 @@ const Card = ({props}) => {
     },
     'powerbi':{
       img: powerbi
+    },
+    'tableau':{
+      img: tableau
     }
   }
     
