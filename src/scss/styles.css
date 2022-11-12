@@ -91,6 +91,10 @@ a {
   background-color: transparent;
   padding: 1rem;
 }
+
+.card-img-top2{
+  padding: 1em;
+}
 .card-title2 {
   color: #D23737 !important;
   padding: 1em;

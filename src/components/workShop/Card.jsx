@@ -30,7 +30,7 @@ const Card = ({props}) => {
         <div className="card-header text-center">
                 <h5 rel="noopener noreferrer" target="_blank" className="card-title2"> {props.title}</h5 >
             </div>
-            <img className="card-img-top" src={images[props.title.split(' ').join('').toLowerCase()].img}/>
+            <img className="card-img-top2" src={images[props.title.split(' ').join('').toLowerCase()].img}/>
             <div className="card-body">
                 {/* <h5 className="card-title">{props.title}</h5> */}
                 <p className="text-center">{props.desc}</p>
