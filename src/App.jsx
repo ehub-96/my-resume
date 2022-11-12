@@ -34,9 +34,9 @@ function App() {
           <Skills/>
         </div>
         
-        <div className="component-container" id="experience">
+        {/* <div className="component-container" id="experience">
           <Experience/>
-        </div>
+        </div> */}
 
         <div className="component-container" id="PersonalProjects">
           <WorkShop/>
