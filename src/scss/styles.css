@@ -91,6 +91,10 @@ a {
   background-color: transparent;
   padding: 1rem;
 }
+.card-title2 {
+  color: #D23737 !important;
+  padding: 1em;
+}
 .component-container .custom-card .card-title {
   color: #D23737 !important;
 }
