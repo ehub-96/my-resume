@@ -27,9 +27,12 @@ const Card = ({props}) => {
   return (
     <div className="col-sm-6" >
         <div className='card-mb3 custom-card' key={props.title+'-key'}>
+        <div className="card-header text-center">
+                <a rel="noopener noreferrer" target="_blank" className="title"> {props.title}</a>
+            </div>
             <img className="card-img-top" src={images[props.title.split(' ').join('').toLowerCase()].img}/>
             <div className="card-body">
-                <h5 className="card-title">{props.title}</h5>
+                {/* <h5 className="card-title">{props.title}</h5> */}
                 <p className="card-text">{props.desc}</p>
                 {/* <button className='btn-vd'> */}
                   {/* <EyeFill className='card-icon'/> */}
