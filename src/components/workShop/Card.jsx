@@ -33,7 +33,7 @@ const Card = ({props}) => {
             <img className="card-img-top" src={images[props.title.split(' ').join('').toLowerCase()].img}/>
             <div className="card-body">
                 {/* <h5 className="card-title">{props.title}</h5> */}
-                <p className="card-text">{props.desc}</p>
+                <p text-align="center" className="card-text">{props.desc}</p>
                 {/* <button className='btn-vd'> */}
                   {/* <EyeFill className='card-icon'/> */}
                   <a href={props.link} target="_blank" rel="noopener noreferrer" className='btn btn-vd bg-danger '>View Demo</a>
