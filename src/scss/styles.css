@@ -91,6 +91,17 @@ a {
   background-color: transparent;
   padding: 1rem;
 }
+
+.card-title2 {
+  color: #D23737 !important;
+  padding: 1em;
+  border-bottom: 3px solid #D23737;
+}
+.card-text2 {
+  color: white;
+  padding: 3em;
+  text-align: center
+}
 .component-container .custom-card .card-title {
   color: #D23737 !important;
 }
