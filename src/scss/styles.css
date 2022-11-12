@@ -94,6 +94,7 @@ a {
 .card-title2 {
   color: #D23737 !important;
   padding: 1em;
+  border-bottom: 3px solid #D23737;
 }
 .card-text2 {
   color: white;
