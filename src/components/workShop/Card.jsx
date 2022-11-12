@@ -1,24 +1,13 @@
 import React from 'react'
-import image_bands from '../../assets/card-image/Bands.png'
-import image_slider from '../../assets/card-image/Slider.png'
-import bands_report from '../../assets/card-image/BandsReportPowerBI.png'
-import tableu_report from '../../assets/card-image/bandstableu.png'
+import plotlydash from '../../assets/card-image/plotlydashlogo.png'
+
 import { EyeFill } from 'react-bootstrap-icons';
 
 const Card = ({props}) => {
 
   const images = {
     'myfavoritebandsdashboard':{
-      img: image_bands
-    },
-    'swedishbandssliderdashboard':{
-      img: image_slider
-    },
-    'bandsoriginandspotifylisteners':{
-      img: bands_report
-    },
-    'bandsbyyearandnumberofalbums':{
-      img: tableu_report
+      img: plotlydash
     }
   }
     

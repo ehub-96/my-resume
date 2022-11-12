@@ -1,30 +1,9 @@
 [
     {
-        "title":"My Favorite Bands Dashboard",
-        "desc":"From my medium Sized dataset scripted by hand with Spotify data as one of my first practice projects, several graphs in a dashboard depicting my favorite bands, genre, origin, etc.",
-        "img":"dash-example.png",
-        "git":"https://github.com/ehub-96/Dash-Bands",
-        "link":"https://dash-bands.onrender.com"
-    },
-    {
-        "title":"Swedish Bands Slider Dashboard",
-        "desc":"From 'My Favorite Bands' dataset, a more in-depth look into the Swedish Bands, with both a range slider and a slider for easy and interactive data visualitation related to the years when bands formed.",
-        "img":"dash-example.png",
-        "git":"https://github.com/ehub-96/Dash-Slider",
-        "link":"https://dash-slider.onrender.com"
-    },
-    {
-        "title":"Bands Origin and Spotify Listeners",
-        "desc":"Made with Power BI, a dashboard displaying the Origin of many bands, with their respective amount of Spotify monthly listeners.",
-        "img":"BandsReportPowerBI.png",
-        "git":"https://github.com/ehub-96/PowerBI",
-        "link":"https://app.powerbi.com/view?r=eyJrIjoiNGI2YzkxMTAtMWY3Mi00Yzc2LTkzNzAtZWZkYmFhMTU5ODg4IiwidCI6ImM1ZDg4ODRiLWNmNGItNDUzMy1hMzRjLWQwMTczOTJhMjFjMSJ9"
-    },
-    {
-        "title":"Bands by Year and Number of Albums",
-        "desc":"Made with Tableu, mostly going trough the same information, but with different graphs, including a bubble density graph and a Gantt diagram.",
-        "img":"bandstableu.png",
-        "git":"https://github.com/ehub-96/Tableu-Bands",
-        "link":"https://public.tableau.com/views/BandsTableu/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"
+        "title":"Plotly Dash",
+        "desc":"Dashboards made with Plotly Dash",
+        "img":"plotlydashlogo.png",
+        "link":"https://p4tsfa2i5afgmvci.anvil.app/VTKMIGKRVG7TIWUQDA6WF7A7"
     }
+    
 ]
