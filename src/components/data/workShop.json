@@ -22,7 +22,7 @@
     },
     {
         "title":"Bands by Year and Number of Albums",
-        "desc":"Made with Tableu, mostly going trough the same information, but with different graphs, including a bubble density graph and a Gantt diagram.",
+        "desc":"Made with Tableau, mostly going trough the same information, but with different graphs, including a bubble density graph and a Gantt diagram.",
         "img":"bandstableu.png",
         "git":"https://github.com/ehub-96/Tableu-Bands",
         "link":"https://public.tableau.com/views/BandsTableu/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"
