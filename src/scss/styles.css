@@ -136,6 +136,7 @@ a {
 }
 .ul-list .li-list {
   color: white;
+  padding: 1rem;
 }
 
 .footer .icon {
