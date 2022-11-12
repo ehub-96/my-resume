@@ -92,9 +92,6 @@ a {
   padding: 1rem;
 }
 
-.card-img-top2{
-  padding: 1em;
-}
 .card-title2 {
   color: #D23737 !important;
   padding: 1em;
@@ -102,7 +99,7 @@ a {
 }
 .card-text2 {
   color: white;
-  padding: 1em;
+  padding: 3em;
   text-align: center
 }
 .component-container .custom-card .card-title {
