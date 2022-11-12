@@ -8,7 +8,7 @@
     },
     {
         "title":"Swedish Bands Slider Dashboard",
-        "desc":"From 'My Favorite Bands' dataset, a more in-depth look into the Swedish Bands, with both a range slider and a slider for easy and interactive data visualitation related to the years when bands formed.",
+        "desc":"From 'My Favorite Bands' dataset, a more in-depth look into the Swedish Bands, with both a range slider and a slider for easy and interactive data visualization related to the years when bands formed.",
         "img":"dash-example.png",
         "git":"https://github.com/ehub-96/Dash-Slider",
         "link":"https://dash-slider.onrender.com"
