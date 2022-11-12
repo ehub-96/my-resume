@@ -37,10 +37,10 @@ const Card = ({props}) => {
                 {/* <button className='btn-vd'> */}
                   {/* <EyeFill className='card-icon'/> */}
                   <div class="btn-container text-center">
-                  <a href={props.link} target="_blank" rel="noopener noreferrer" className='btn btn-vd bg-danger'>View Demo</a>
+                  <a href={props.link} target="_blank" rel="noopener noreferrer" className='btn btn-vd bg-danger'>Demo</a>
                   
                 {/* </button> */}
-                <a href={props.git} target="_blank" rel="noopener noreferrer" className="btn btn-vd bg-danger">Github</a>
+                <a href={props.git} target="_blank" rel="noopener noreferrer" className="card-text link">Github</a>
                 </div>
             </div>
         </div>
