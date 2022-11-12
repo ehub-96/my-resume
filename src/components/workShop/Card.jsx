@@ -28,7 +28,7 @@ const Card = ({props}) => {
     <div className="col-sm-6" >
         <div className='card-mb3 custom-card' key={props.title+'-key'}>
         <div className="card-header text-center">
-                <h1  rel="noopener noreferrer" target="_blank" className="title"> {props.title}</h1 >
+                <h5 style="color: #D23737"  rel="noopener noreferrer" target="_blank" className="title"> {props.title}</h5 >
             </div>
             <img className="card-img-top" src={images[props.title.split(' ').join('').toLowerCase()].img}/>
             <div className="card-body">
