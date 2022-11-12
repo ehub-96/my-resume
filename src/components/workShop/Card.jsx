@@ -1,5 +1,6 @@
 import React from 'react'
 import plotlydash from '../../assets/card-image/plotlydashlogo.png'
+import powerbi from '../../assets/card-image/powerbi.png'
 
 import { EyeFill } from 'react-bootstrap-icons';
 
@@ -8,6 +9,9 @@ const Card = ({props}) => {
   const images = {
     'plotlydash':{
       img: plotlydash
+    },
+    'powerbi':{
+      img: powerbi
     }
   }
     
