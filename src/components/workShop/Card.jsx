@@ -29,7 +29,7 @@ const Card = ({props}) => {
                   <a href={props.link} target="_blank" rel="noopener noreferrer" className='btn btn-vd bg-danger'>Demo</a>
                   
                 {/* </button> */}
-                <a href={props.git} target="_blank" rel="noopener noreferrer" className="card-text link">Github</a>
+                {/* <a href={props.git} target="_blank" rel="noopener noreferrer" className="card-text link">Github</a> */}
                 </div>
             </div>
         </div>
