@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Data Analysis",
+        "desc": "Experienced with several libraries and programs, visualization and report making. Data Research, Modeling, Collection, Assessment, Analysis & Quallity.",
+        "data": ["Dash Plotly","Power BI","Pandas", "PySpark", "Tableu"],
+        "active":true
+    },
+    {
+        "title": "Databases",
+        "desc": "Some experience with Database Design & Management, and introducing into Data Warehousing and Data Lakes.",
+        "data": ["SQL & MySQL","MongoDB","PostgreSQL", "NoSQL"],
+        "active":false
+    },    
+    {
+        "title": "Marketing",
+        "desc": "Experienced with small business. Digital Marketing, Social Media & Community Managememnt, and Market Research.",
+        "data": ["Trending", "Google Analytics", "Hootsuite","Content Marketing", "Community Management"],
+        "active":false
+    },
+    {
+        "title": "Business Analysis",
+        "desc": "Experienced with small business. Rebranding, Brand Managememnt, Decision Making, Problem Recognition.",
+        "data": ["Logistics Consulting","Operational Efficiency","Business Opportunities"],
+        "active":false
+    }
+]
+

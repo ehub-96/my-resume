@@ -1,0 +1,33 @@
+[
+    {
+        "title":"Home",
+        "link":"#",
+        "default":"active",
+        "id":"home-sidebar"
+    },
+    {
+        "title":"About",
+        "link":"#about",
+        "default":"",
+        "id":"about-sidebar"
+    },
+    {
+        "title":"Skills",
+        "link":"#skills",
+        "default":"",
+        "id":"skills-sidebar"
+    },
+
+    {
+        "title":"Personal Projects",
+        "link":"#PersonalProjects",
+        "default":"",
+        "id":"workShop-sidebar"
+    },
+    {
+        "title":"Contact",
+        "link":"#contact",
+        "default":"",
+        "id":"contact-sidebar"
+    }
+]

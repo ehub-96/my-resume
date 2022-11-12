@@ -1,0 +1,186 @@
+@import '_colors';
+$small : 992px;
+
+html,body{
+    background-color: $background;
+    max-width: 100% !important;
+    margin-right: 0 !important;
+}
+
+p{
+    color: $highligth;
+}
+
+.side-bar{
+    width: 15% !important;
+    background-color: #27272779 !important;
+    backdrop-filter: blur(1rem);
+
+    .nav-item{
+        list-style:none !important;
+    }
+    .offcanvas-title{
+        color: $primary;
+        text-align: center !important;
+    } 
+
+    .nav-link{
+        color: $highligth;
+        margin-top: 2rem;
+    } 
+
+    .nav-link:hover{
+        color: $primary;
+        transition: all ease .5s;
+    } 
+    .active{
+        color: $primary;
+        border-bottom: 2px solid $highligth;
+    }
+
+    .btn-sidebar-container{
+        text-align: start;
+    }
+}
+
+.btn-icon{
+    height: 2rem;
+}
+
+.btn-vd{
+    background-color: grey !important;
+    margin:1rem !important;
+    .view_demo{
+        text-decoration: none;
+        color: $background;
+    }
+    .card-icon{
+        margin: 10px;
+        fill: $background;
+    }
+}
+
+.btn-vd:hover{
+    background-color: $primary !important;
+    transition: all ease .5s;
+    .view_demo{
+        color: white;
+    }
+    .card-icon{
+        fill: white;
+    }
+}
+
+
+.s-title{
+    color: $primary;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.component-container{
+    margin: 2rem;
+    padding: 1rem;
+    margin-top: 3rem !important;
+    .nav-pills .nav-link.active{
+        background-color: $primary !important;
+    }
+    .nav-link{
+        color: $highligth;
+    }
+
+    .custom-card{
+        margin-top: 3rem !important;
+        background-color: transparent;
+        padding: 1rem;
+        .card-title{
+            color: $primary !important;
+        }
+        .link{
+            text-decoration:none ;
+            color: $highligth;
+        }
+        .link:hover{
+            color: $primary ;
+            transition: all ease .5s ;
+            transform: translateY(-1em) ;
+        }
+    }
+}
+
+
+.main-title{
+    img{
+        width: 100%;
+    }
+    .title{
+        color: $highligth;
+        margin-top: 1rem;
+        text-align: center;
+    }
+
+    .p-about{
+        text-align: center;
+        padding: 1rem;
+    }
+}
+
+.ul-list{
+    list-style-type: circle;
+    
+    ::marker {
+        color: $primary;
+    }
+    .li-list{
+        color: $highligth;
+    }
+}
+
+.footer{
+    .icon{
+        color: $highligth;
+        width: 2rem;
+        height: 2rem;
+        margin: 1rem;
+        transform: translateY(0em);
+        transition: all ease .5s;
+    }
+
+    .icon:hover{
+        color: $primary;
+        transition: all ease .5s;
+        transform: translateY(-1em);
+    }
+
+    .p-author{
+        color: grey;
+    }
+    .p-author-left{
+        text-align: left;
+    }
+    .p-author-rigth{
+        text-align: right;
+    }
+}
+
+
+@media screen and (max-width: $small) {
+    .main-title{
+        img{
+            width: 100%;
+            text-align: center;
+        }
+    }
+
+    .p-author-left{
+        text-align: center;
+    }
+    .p-author-rigth{
+        text-align: center;
+    }
+
+    .side-bar{
+        width: 50% !important;
+    }
+}
+
