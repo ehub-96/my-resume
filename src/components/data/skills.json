@@ -28,6 +28,12 @@
         "desc": "Experienced with small business. Rebranding, Brand Managememnt, Decision Making, Problem Recognition.",
         "data": ["Logistics Consulting","Operational Efficiency","Business Opportunities"],
         "active":false
+    },
+    {
+        "title": "Cloud Services",
+        "desc": "Some experience with the common tools in the market",
+        "data": ["AWS","Azure","Google Cloud"],
+        "active":false
     }
 ]
 
