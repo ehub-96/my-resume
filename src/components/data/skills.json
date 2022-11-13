@@ -1,8 +1,14 @@
 [
     {
         "title": "Data Analysis",
-        "desc": "Experienced with several libraries and programs, visualization and report making. Data Research, Modeling, Collection, Assessment, Analysis & Quallity.",
-        "data": ["ETL","EDA","Dash Plotly","Power BI","Pandas", "PySpark", "Tableu"],
+        "desc": "Experienced with several libraries and programs, Data Research, Cleaning, Collection, Assessment, Analysis & Quallity.",
+        "data": ["Pandas", "Jupyter Notebook", "PySpark","ETL","EDA"],
+        "active":true
+    },
+    {
+        "title": "Data Analysis",
+        "desc": "Experienced with several libraries and programs, visualization and report making.",
+        "data": ["Dash Plotly","Power BI","Tableu"],
         "active":true
     },
     {
