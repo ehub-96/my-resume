@@ -6,7 +6,7 @@
         "active":true
     },
     {
-        "title": "Data Analysis",
+        "title": "Data Visualization",
         "desc": "Experienced with several libraries and programs, visualization and report making.",
         "data": ["Dash Plotly","Power BI","Tableu","Anvil"],
         "active":false
