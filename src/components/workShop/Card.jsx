@@ -2,7 +2,7 @@ import React from 'react'
 import plotlydash from '../../assets/card-image/plotlydashlogo.png'
 import powerbi from '../../assets/card-image/powerbi.png'
 import tableau from '../../assets/card-image/tableau.png'
-import database from '../../assets/card-image/sqllogo.jpg'
+import database from '../../assets/card-image/sqllogo.png'
 import { EyeFill } from 'react-bootstrap-icons';
 
 const Card = ({props}) => {
