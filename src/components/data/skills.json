@@ -14,7 +14,7 @@
     {
         "title": "Databases",
         "desc": "Some experience with Database Design & Management, and introducing into Data Warehousing and Data Lakes.",
-        "data": ["SQL & MySQL","MongoDB","PostgreSQL", "NoSQL"],
+        "data": ["MySQL","MongoDB","PostgreSQL"],
         "active":false
     },    
     {
