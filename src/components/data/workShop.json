@@ -19,6 +19,13 @@
         "img":"tableau.png",
         "git":"",
         "link":"https://VE4UCDLCBBTNE6Z3.anvil.app/IWEIL2UAESIDEDUX4NRSSS6Y"
+    },
+    {
+        "title":"Data Base",
+        "desc":"A simple DB project and its visualitation",
+        "img":"sqllogo.png",
+        "git":"",
+        "link":""
     }
 
 ]
