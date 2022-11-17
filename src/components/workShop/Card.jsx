@@ -3,11 +3,15 @@ import plotlydash from '../../assets/card-image/plotlydashlogo.png'
 import powerbi from '../../assets/card-image/powerbi.png'
 import tableau from '../../assets/card-image/tableau.png'
 import database from '../../assets/card-image/sqllogo.png'
+import pandas from '../../assets/card-image/pandas.png'
 import { EyeFill } from 'react-bootstrap-icons';
 
 const Card = ({props}) => {
 
   const images = {
+    'pandas/jupyter':{
+      img: pandas
+    },
     'plotlydash':{
       img: plotlydash
     },
