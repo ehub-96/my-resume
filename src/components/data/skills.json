@@ -1,14 +1,20 @@
 [
     {
         "title": "Data Analysis",
-        "desc": "Experienced with several libraries and programs, visualization and report making. Data Research, Modeling, Collection, Assessment, Analysis & Quallity.",
-        "data": ["Dash Plotly","Power BI","Pandas", "PySpark", "Tableau"],
+        "desc": "Experienced with several libraries and programs, Data Research, Cleaning, Collection, Assessment, Analysis & Quallity.",
+        "data": ["Pandas","Jupyter Notebook", "PySpark","ETL","EDA"],
         "active":true
+    },
+    {
+        "title": "Data Visualization",
+        "desc": "Experienced with several libraries and programs, visualization and report making.",
+        "data": ["Dash Plotly","Power BI","Tableu","Anvil"],
+        "active":false
     },
     {
         "title": "Databases",
         "desc": "Some experience with Database Design & Management, and introducing into Data Warehousing and Data Lakes.",
-        "data": ["SQL & MySQL","MongoDB","PostgreSQL", "NoSQL"],
+        "data": ["MySQL","MongoDB","PostgreSQL"],
         "active":false
     },    
     {
@@ -21,6 +27,12 @@
         "title": "Business Intelligence",
         "desc": "Experienced with small business. Rebranding, Brand Managememnt, Decision Making, Problem Recognition.",
         "data": ["Logistics Consulting","Operational Efficiency","Business Opportunities"],
+        "active":false
+    },
+    {
+        "title": "Cloud Services",
+        "desc": "Some experience with the common tools in the market",
+        "data": ["AWS","Azure","Google Cloud"],
         "active":false
     }
 ]

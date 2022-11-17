@@ -1,24 +1,24 @@
 import React from 'react'
-import image_bands from '../../assets/card-image/Bands.png'
-import image_slider from '../../assets/card-image/Slider.png'
-import bands_report from '../../assets/card-image/BandsReportPowerBI.png'
-import tableu_report from '../../assets/card-image/bandstableu.png'
+import plotlydash from '../../assets/card-image/plotlydashlogo.png'
+import powerbi from '../../assets/card-image/powerbi.png'
+import tableau from '../../assets/card-image/tableau.png'
+import database from '../../assets/card-image/sqllogo.png'
 import { EyeFill } from 'react-bootstrap-icons';
 
 const Card = ({props}) => {
 
   const images = {
-    'myfavoritebandsdashboard':{
-      img: image_bands
+    'plotlydash':{
+      img: plotlydash
     },
-    'swedishbandssliderdashboard':{
-      img: image_slider
+    'powerbi':{
+      img: powerbi
     },
-    'bandsoriginandspotifylisteners':{
-      img: bands_report
+    'tableau':{
+      img: tableau
     },
-    'bandsbyyearandnumberofalbums':{
-      img: tableu_report
+    'database':{
+      img: database
     }
   }
     
@@ -40,7 +40,7 @@ const Card = ({props}) => {
                   <a href={props.link} target="_blank" rel="noopener noreferrer" className='btn btn-vd bg-danger'>Demo</a>
                   
                 {/* </button> */}
-                <a href={props.git} target="_blank" rel="noopener noreferrer" className="card-text link">Github</a>
+                {/* <a href={props.git} target="_blank" rel="noopener noreferrer" className="card-text link">Github</a> */}
                 </div>
             </div>
         </div>

@@ -1,30 +1,31 @@
 [
     {
-        "title":"My Favorite Bands Dashboard",
-        "desc":"From my medium Sized dataset scripted by hand with Spotify data as one of my first practice projects, several graphs in a dashboard depicting my favorite bands, genre, origin, etc.",
-        "img":"dash-example.png",
-        "git":"https://github.com/ehub-96/Dash-Bands",
-        "link":"https://dash-bands.onrender.com"
+        "title":"Plotly Dash",
+        "desc":"Dashboards made with Plotly Dash",
+        "img":"plotlydashlogo.png",
+        "git":"",
+        "link":"https://p4tsfa2i5afgmvci.anvil.app/VTKMIGKRVG7TIWUQDA6WF7A7"
     },
     {
-        "title":"Swedish Bands Slider Dashboard",
-        "desc":"From 'My Favorite Bands' dataset, a more in-depth look into the Swedish Bands, with both a range slider and a slider for easy and interactive data visualization related to the years when bands formed.",
-        "img":"dash-example.png",
-        "git":"https://github.com/ehub-96/Dash-Slider",
-        "link":"https://dash-slider.onrender.com"
+        "title":"Power BI",
+        "desc":"Dashboards made with Microsoft Power Bi",
+        "img":"powerbi.png",
+        "git":"",
+        "link":"https://ELPAR5DOHKGQ47PE.anvil.app/WDBBYQFCZ3G3YE4WQFY77U6L"
     },
     {
-        "title":"Bands Origin and Spotify Listeners",
-        "desc":"Made with Power BI, a dashboard displaying the Origin of many bands, with their respective amount of Spotify monthly listeners.",
-        "img":"BandsReportPowerBI.png",
-        "git":"https://github.com/ehub-96/PowerBI",
-        "link":"https://app.powerbi.com/view?r=eyJrIjoiNGI2YzkxMTAtMWY3Mi00Yzc2LTkzNzAtZWZkYmFhMTU5ODg4IiwidCI6ImM1ZDg4ODRiLWNmNGItNDUzMy1hMzRjLWQwMTczOTJhMjFjMSJ9"
+        "title":"Tableau",
+        "desc":"Dashboards made with Tableau",
+        "img":"tableau.png",
+        "git":"",
+        "link":"https://VE4UCDLCBBTNE6Z3.anvil.app/IWEIL2UAESIDEDUX4NRSSS6Y"
     },
     {
-        "title":"Bands by Year and Number of Albums",
-        "desc":"Made with Tableau, mostly going trough the same information, but with different graphs, including a bubble density graph and a Gantt diagram.",
-        "img":"bandstableu.png",
-        "git":"https://github.com/ehub-96/Tableu-Bands",
-        "link":"https://public.tableau.com/views/BandsTableu/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"
+        "title":"Data Base",
+        "desc":"A simple DB project and its visualization",
+        "img":"sqllogo.png",
+        "git":"",
+        "link":"https://github.com/ehub-96/SQL"
     }
+
 ]
