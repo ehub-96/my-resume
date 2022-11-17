@@ -22,7 +22,7 @@
     },
     {
         "title":"Data Base",
-        "desc":"A simple DB project and its visualization",
+        "desc":"A simple DB project",
         "img":"sqllogo.png",
         "git":"",
         "link":"https://github.com/ehub-96/SQL"
