@@ -5,7 +5,7 @@ import Skills from './components/skills/Skills'
 import Footer from './components/footer/Footer'
 import WorkShop from './components/workShop/WorkShop'
 import Sidebar from './components/sidebar/Sidebar'
-import Experience from './components/experience/Experience'
+
 
 
 function App() {
@@ -34,10 +34,6 @@ function App() {
           <Skills/>
         </div>
         
-        {/* <div className="component-container" id="experience">
-          <Experience/>
-        </div> */}
-
         <div className="component-container" id="PersonalProjects">
           <WorkShop/>
         </div>
