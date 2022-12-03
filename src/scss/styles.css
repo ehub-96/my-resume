@@ -11,14 +11,14 @@ p {
 a {
   text-decoration: none;
 }
-.accordion-color {
+.accordion-button-color {
 color: grey
 }
-.accordion-body {
+.accordion-button-bg{
   color: grey
   }
-.accordion-bg{
-  color: #272727;
+.accordion-button-focus-border-color{
+  color: grey
 }
 .side-bar {
   width: 15% !important;
