@@ -1,9 +1,9 @@
-import React, { Component } from "react";
-import { Carousel, Card } from "react-bootstrap";
+import React from "react";
+import { Card } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Ehub from '../../assets/ehub.png'
 
-export class Mentorships extends Component {
+export class Mentorships extends Card {
     render() {
       return (
                 <div className='Mentorships'>
