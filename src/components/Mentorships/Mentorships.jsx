@@ -3,7 +3,7 @@ import { Card } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import cheems from '../../assets/card-image/cheems.jpg'
 
-export class Mentorships {
+export class Mentorships  extends Card{
     render() {
       return (
         <div className='Mentorships'>
