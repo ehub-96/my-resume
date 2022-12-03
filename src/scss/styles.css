@@ -92,6 +92,11 @@ a {
   padding: 1rem;
 }
 
+.accordion {
+  background-color: grey !important;
+  margin: 1rem !important;
+}
+
 .card-title2 {
   color: #D23737 !important;
   padding: 1em;
