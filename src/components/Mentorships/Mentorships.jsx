@@ -1,7 +1,7 @@
 import React from "react";
 import { Card } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
-import cheems from '../../assets/cheems.jpg'
+import cheems from '../../assets/card-image/cheems.jpg'
 
 export class Mentorships extends Card {
     render() {
