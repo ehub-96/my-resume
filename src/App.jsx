@@ -5,6 +5,8 @@ import Skills from './components/skills/Skills'
 import Footer from './components/footer/Footer'
 import WorkShop from './components/workShop/WorkShop'
 import Sidebar from './components/sidebar/Sidebar'
+import Certifications from './components/Certifications/Certifications'
+import "bootstrap/dist/css/bootstrap.min.css";
 
 
 
@@ -36,6 +38,10 @@ function App() {
         
         <div className="component-container" id="PersonalProjects">
           <WorkShop/>
+        </div>
+
+        <div className="component-container" id="Certifications">
+          <Certifications/>
         </div>
       </div>
 
