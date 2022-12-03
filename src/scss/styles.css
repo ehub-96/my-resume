@@ -20,6 +20,12 @@ color: grey
 .accordion-button-focus-border-color{
   color: grey
 }
+.accordion-button-active-color{
+  color: grey
+}
+.accordion-button-active-bg{
+  color: grey
+}
 .side-bar {
   width: 15% !important;
   background-color: rgba(39, 39, 39, 0.4745098039) !important;
