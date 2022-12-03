@@ -11,10 +11,12 @@ p {
 a {
   text-decoration: none;
 }
-.accordion {
-  background-color: grey !important
+.accordion-color {
+color: grey
 }
-
+.accordion-bg{
+  color: #272727;
+}
 .side-bar {
   width: 15% !important;
   background-color: rgba(39, 39, 39, 0.4745098039) !important;
