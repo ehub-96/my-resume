@@ -25,6 +25,12 @@
         "id":"workShop-sidebar"
     },
     {
+        "title":"Certifications",
+        "link":"#Certifications",
+        "default":"",
+        "id":"Certifications-sidebar"
+    },
+    {
         "title":"Contact",
         "link":"#contact",
         "default":"",
