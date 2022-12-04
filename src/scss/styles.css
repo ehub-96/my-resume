@@ -12,7 +12,7 @@ a {
   text-decoration: none;
 }
 .accordion{
-  border-color:#272727;
+  background-color:#272727;
 }
 .side-bar {
   width: 15% !important;
