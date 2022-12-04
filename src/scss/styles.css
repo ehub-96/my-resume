@@ -103,6 +103,10 @@ a {
 .accordion-item{
   border-color: #D23737;
 }
+.accordion-button:not(.collapsed){
+  color: inherit;
+  background: grey;
+}
 
 .card-title2 {
   color: #D23737 !important;
