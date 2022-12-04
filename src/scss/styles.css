@@ -11,10 +11,23 @@ p {
 a {
   text-decoration: none;
 }
-.accordion-item{
-  color: grey;
-  background: #272727;
+.accordion-button{
+  color: #272727;
+  background: #D23737;
+  color: grey
+}
+.accordion-button:not(.collapsed) {
+  color: inherit;
+  background: grey;
   color: white
+}
+.accordion-item{
+  color: #272727;
+  background: grey;
+  color: white
+}
+accordion-button:not(.collapsed)::after {
+  color:#D23737;
 }
 .side-bar {
   width: 15% !important;
