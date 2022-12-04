@@ -11,7 +11,7 @@ p {
 a {
   text-decoration: none;
 }
-.accordion-button{
+/* .accordion-button{
   color: #272727;
   background: #D23737;
   color: grey
@@ -20,15 +20,15 @@ a {
   color: inherit;
   background: grey;
   color: white
-}
+} */
 .accordion-item{
   color: #272727;
   background: grey;
   color: white
 }
-accordion-button:not(.collapsed)::after {
+/* accordion-button:not(.collapsed)::after {
   color:#D23737;
-}
+} */
 .side-bar {
   width: 15% !important;
   background-color: rgba(39, 39, 39, 0.4745098039) !important;
