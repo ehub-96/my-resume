@@ -11,12 +11,9 @@ p {
 a {
   text-decoration: none;
 }
-.accordionPanelsStayOpenExample{
-  background-color:#272727;
-  color:#272727;
-  background: #272727
+.accordion{
+  border-color:#272727;
 }
-
 .side-bar {
   width: 15% !important;
   background-color: rgba(39, 39, 39, 0.4745098039) !important;
