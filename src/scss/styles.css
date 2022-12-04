@@ -21,15 +21,16 @@ a {
   background: grey;
   color: white
 } */
+.accordion{
+  color: #272727;
+  background: #272727;
+}
 .accordion-item{
   color: #272727;
-  background: #272727;
+  background: grey;
   color: white
 }
-.accordion-panel{
-  color: #272727;
-  background: #272727;
-}
+
 /* accordion-button:not(.collapsed)::after {
   color:#D23737;
 } */
