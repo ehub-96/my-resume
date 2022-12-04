@@ -11,9 +11,7 @@ p {
 a {
   text-decoration: none;
 }
-.accordion{
-  background-color:#272727;
-}
+
 .side-bar {
   width: 15% !important;
   background-color: rgba(39, 39, 39, 0.4745098039) !important;
@@ -96,7 +94,7 @@ a {
 }
 
 .accordion {
-  background-color: grey !important;
+  background-color:#272727;
   margin: 1rem !important;
 }
 
