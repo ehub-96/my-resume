@@ -97,6 +97,12 @@ a {
   background-color:#272727;
   margin: 1rem !important;
 }
+.accordion-button{
+  color: #D23737
+}
+.accordion-item{
+  border-color: #D23737;
+}
 
 .card-title2 {
   color: #D23737 !important;
