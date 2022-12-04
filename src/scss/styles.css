@@ -11,34 +11,10 @@ p {
 a {
   text-decoration: none;
 }
-/* .accordion-button{
-  color: #272727;
-  background: #D23737;
-  color: grey
-}
-.accordion-button:not(.collapsed) {
-  color: inherit;
-  background: grey;
-  color: white
-} */
-.accordion-panel{
-  color: #272727;
+.panel-heading{
   background-color:#272727;
-}
-.accordion-panel-heading{
-  background-color:#272727;
-}
-.accordion-item{
-  border-color: #272727;
-  background-color:#272727;
-  color: #272727;
-  background: grey;
-  color: white
 }
 
-/* accordion-button:not(.collapsed)::after {
-  color:#D23737;
-} */
 .side-bar {
   width: 15% !important;
   background-color: rgba(39, 39, 39, 0.4745098039) !important;
