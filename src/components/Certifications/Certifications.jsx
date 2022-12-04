@@ -9,7 +9,7 @@ export class Certifications extends Component {
         <div className='Certifications'>
             <h1 className='s-title'>Certifications</h1>
             <div className="row">
-            <div class="accordion" id="accordionPanelsStayOpenExample">
+            <div class="accordion accordion-flush" id="accordionPanelsStayOpenExample">
               <div class="accordion-item">
                 <h2 class="accordion-header" id="panelsStayOpen-headingOne">
                   <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
