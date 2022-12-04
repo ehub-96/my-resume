@@ -104,8 +104,8 @@ a {
   border-color: #D23737;
 }
 .accordion-button:not(.collapsed){
-  color: inherit;
-  background: grey;
+  color: #D23737;
+  background: rgba(128, 128, 128, 0.247);
 }
 
 .card-title2 {
