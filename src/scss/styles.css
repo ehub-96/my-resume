@@ -23,7 +23,7 @@ a {
 } */
 .accordion-item{
   color: #272727;
-  background: grey;
+  background: #272727;
   color: white
 }
 /* accordion-button:not(.collapsed)::after {
