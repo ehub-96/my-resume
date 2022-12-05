@@ -17,7 +17,7 @@ export class Mentorships extends Component {
             <div class="row row-cols-1 row-cols-md-3 g-4">
               <div class="col">
                 <div class="card border-danger mb-3">
-                  <img src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F658%2F936%2F411.jpg" class="card-img-top" alt="..."/>
+                  <img src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F658%2F936%2F411.jpg" class="card-img-top2" alt="..."/>
                   <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
@@ -33,7 +33,7 @@ export class Mentorships extends Component {
               </div>
               <div class="col">
                 <div class="card border-danger mb-3">
-                  <img src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F658%2F936%2F411.jpg" class="card-img-top" alt="..."/>
+                  <img src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F658%2F936%2F411.jpg" class="card-img-top2" alt="..."/>
                   <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
@@ -49,7 +49,7 @@ export class Mentorships extends Component {
               </div>
               <div class="col">
                 <div class="card border-danger mb-3">
-                  <img src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F658%2F936%2F411.jpg" class="card-img-top" alt="..."/>
+                  <img src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F658%2F936%2F411.jpg" class="card-img-top2" alt="..."/>
                   <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
