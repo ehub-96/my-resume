@@ -41,9 +41,9 @@ function App() {
           <WorkShop/>
         </div>
 
-        {/* <div className="component-container" id="Mentorships">
+        <div className="component-container" id="Mentorships">
           <Mentorships/>
-        </div> */}
+        </div>
 
         <div className="component-container" id="Certifications">
           <Certifications/>
