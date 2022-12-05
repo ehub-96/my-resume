@@ -18,6 +18,7 @@ a {
   color: white;
 }
 .card-footer{
+  border-color: #D23737;
   color: white;
   background: rgba(128, 128, 128, 0.692);
 }
