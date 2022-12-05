@@ -98,7 +98,8 @@ a {
   margin: 1rem !important;
 }
 .accordion-button{
-  color: #D23737
+  color: #D23737;
+  background-color:#2727279f
 }
 .accordion-item{
   border-color: #D23737;
