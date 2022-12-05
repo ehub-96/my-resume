@@ -102,6 +102,8 @@ a {
 }
 .accordion-item{
   border-color: #D23737;
+  background-color: #272727;
+  color: white;
  }
 .accordion-button:not(.collapsed){
   color: #D23737;
@@ -109,6 +111,9 @@ a {
 }
 .accordion-button:not(.collapsed)::after{
   filter: brightness(0%);
+}
+.accordion-button:focus{
+  box-shadow: inherit;
 }
 .card-title2 {
   color: #D23737 !important;
