@@ -16,7 +16,7 @@ export class Mentorships extends Component {
             <div class="row row-cols-1 row-cols-md-3 g-4">
               <div class="col">
                 <div class="card h-100">
-                  <img src="..." class="card-img-top" alt="..."/>
+                  <img src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F658%2F936%2F411.jpg" class="card-img-top" alt="..."/>
                   <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -28,7 +28,7 @@ export class Mentorships extends Component {
               </div>
               <div class="col">
                 <div class="card h-100">
-                  <img src="..." class="card-img-top" alt="..."/>
+                  <img src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F658%2F936%2F411.jpg" class="card-img-top" alt="..."/>
                   <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
@@ -40,7 +40,7 @@ export class Mentorships extends Component {
               </div>
               <div class="col">
                 <div class="card h-100">
-                  <img src="..." class="card-img-top" alt="..."/>
+                  <img src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F658%2F936%2F411.jpg" class="card-img-top" alt="..."/>
                   <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
