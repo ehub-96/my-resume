@@ -1,7 +1,7 @@
-import React from "react";
+import React, { Component } from "react";
 import { Card } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
-import cheems from '../../assets/card-image/cheems.jpg'
+
 
 
 export class Mentorships extends Component {
