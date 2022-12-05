@@ -17,6 +17,10 @@ a {
   background-color: #272727;
   color: white;
 }
+.card-footer{
+  color: white;
+  background: rgba(128, 128, 128, 0.692);
+}
 
 
 .side-bar {

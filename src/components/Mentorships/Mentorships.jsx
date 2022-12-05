@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Linkedin, Github, Twitter } from 'react-bootstrap-icons';
 import { Card } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -22,7 +23,7 @@ export class Mentorships extends Component {
                     <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
                   </div>
                   <div class="card-footer">
-                    <small > <div class="btn-container text-center"><a href="https://e621.net/" target="_blank" class="btn btn-vd bg-danger">UWU</a></div></small>
+                  <small class="text-muted">Last updated 3 mins ago</small>
                   </div>
                 </div>
               </div>
@@ -34,7 +35,7 @@ export class Mentorships extends Component {
                     <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
                   </div>
                   <div class="card-footer">
-                  <small > <div class="btn-container text-center"><a href="https://e621.net/" target="_blank" class="btn btn-vd bg-danger">UWU</a></div></small>
+                  <small class="text-muted">Last updated 3 mins ago</small>
                   </div>
                 </div>
               </div>
@@ -46,7 +47,7 @@ export class Mentorships extends Component {
                     <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
                   </div>
                   <div class="card-footer">
-                  <small > <div class="btn-container text-center"><a href="https://e621.net/" target="_blank" class="btn btn-vd bg-danger">UWU</a></div></small>
+                  <small class="text-muted">Last updated 3 mins ago</small>
                   </div>
                 </div>
               </div>
