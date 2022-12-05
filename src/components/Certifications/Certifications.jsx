@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Mortarboard} from 'react-bootstrap-icons';
+import { MortarboardFill} from 'react-bootstrap-icons';
 import { Accordion, Card } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -13,8 +13,8 @@ export class Certifications extends Component {
             <div class="accordion" id="accordionPanelsStayOpenExample">
               <div class="accordion-item">
                 <h2 class="accordion-header" id="panelsStayOpen-headingOne">
-                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne"> <i class="bi bi-mortarboard-fill"></i>
-                    Accordion Item #1 
+                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                    Accordion Item #1  <button className='btn-vd'><EyeFill className='card-icon'/></button>
                   </button>
                 </h2>
                 <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
