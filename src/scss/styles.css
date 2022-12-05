@@ -107,7 +107,7 @@ a {
   color: white;
  }
 .accordion-button:not(.collapsed){
-  color: #D23737;
+  color: white;
   background: rgba(128, 128, 128, 0.692);
 }
 .accordion-button:not(.collapsed)::after{
