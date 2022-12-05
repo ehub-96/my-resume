@@ -30,6 +30,14 @@ a {
   transform: translateY(0em);
   transition: all ease 0.5s;
 }
+.card-img-top{
+  height: 140px;
+  width: 140px;
+  border-radius: 20%;
+  padding: 3px;
+  background: #7d2ae8;
+  margin-top: 30px;
+}
 
 
 
