@@ -23,11 +23,11 @@ export class Mentorships extends Component {
                     <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
                   </div>
                   <div class="card-footer">
-                  <small>
+                  
                   <a href="https://github.com/ehub-96" target="_blank" rel="noopener noreferrer"><Github className='icon' /></a>
                   <a href="https://www.linkedin.com/in/erik-hub-0346001b6/" target="_blank" rel="noopener noreferrer"><Linkedin className='icon' /></a>
                   <a href="https://twitter.com/ehub96?t=hQ_1F1a5bBjxX6k1RJCqQg&s=08" target="_blank" rel="noopener noreferrer"><Twitter className='icon' /></a>
-                  </small>
+                  
                   </div>
                 </div>
               </div>
