@@ -39,7 +39,11 @@ export class Mentorships extends Component {
                     <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
                   </div>
                   <div class="card-footer">
-                  <small class="text-muted">Last updated 3 mins ago</small>
+                  <div className="col-sm text-center">
+                    <a href="https://github.com/ehub-96" target="_blank" rel="noopener noreferrer"><Github className='card-icon2' /></a>
+                    <a href="https://www.linkedin.com/in/erik-hub-0346001b6/" target="_blank" rel="noopener noreferrer"><Linkedin className='card-icon2' /></a>
+                    <a href="https://twitter.com/ehub96?t=hQ_1F1a5bBjxX6k1RJCqQg&s=08" target="_blank" rel="noopener noreferrer"><Twitter className='card-icon2' /></a>
+                  </div>
                   </div>
                 </div>
               </div>
@@ -51,7 +55,11 @@ export class Mentorships extends Component {
                     <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
                   </div>
                   <div class="card-footer">
-                  <small class="text-muted">Last updated 3 mins ago</small>
+                  <div className="col-sm text-center">
+                    <a href="https://github.com/ehub-96" target="_blank" rel="noopener noreferrer"><Github className='card-icon2' /></a>
+                    <a href="https://www.linkedin.com/in/erik-hub-0346001b6/" target="_blank" rel="noopener noreferrer"><Linkedin className='card-icon2' /></a>
+                    <a href="https://twitter.com/ehub96?t=hQ_1F1a5bBjxX6k1RJCqQg&s=08" target="_blank" rel="noopener noreferrer"><Twitter className='card-icon2' /></a>
+                  </div>
                   </div>
                 </div>
               </div>
