@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Carousel } from "react-bootstrap";
+import { Card } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 
@@ -11,92 +11,34 @@ export class Mentorships extends Component {
             <h1 className='s-title'>Mentorships</h1>
             <div className="row">
 
-              <div id="carouselExampleControls" class="carousel slide text-center carousel-dark" data-mdb-ride="carousel">
-                <div class="carousel-inner">
-                  <div class="carousel-item active">
-                    <img class="rounded-circle shadow-1-strong mb-4"
-                      src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(10).webp" alt="avatar"
-                      style="width: 150px;" />
-                    <div class="row d-flex justify-content-center">
-                      <div class="col-lg-8">
-                        <h5 class="mb-3">Maria Kate</h5>
-                        <p>Photographer</p>
-                        <p class="text-muted">
-                          <i class="fas fa-quote-left pe-2"></i>
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus et deleniti
-                          nesciunt sint eligendi reprehenderit reiciendis, quibusdam illo, beatae quia
-                          fugit consequatur laudantium velit magnam error. Consectetur distinctio fugit
-                          doloremque.
-                        </p>
-                      </div>
-                    </div>
-                    <ul class="list-unstyled d-flex justify-content-center text-warning mb-0">
-                      <li><i class="fas fa-star fa-sm"></i></li>
-                      <li><i class="fas fa-star fa-sm"></i></li>
-                      <li><i class="fas fa-star fa-sm"></i></li>
-                      <li><i class="fas fa-star fa-sm"></i></li>
-                      <li><i class="far fa-star fa-sm"></i></li>
-                    </ul>
-                  </div>
-                  <div class="carousel-item">
-                    <img class="rounded-circle shadow-1-strong mb-4"
-                      src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(32).webp" alt="avatar"
-                      style="width: 150px;" />
-                    <div class="row d-flex justify-content-center">
-                      <div class="col-lg-8">
-                        <h5 class="mb-3">John Doe</h5>
-                        <p>Web Developer</p>
-                        <p class="text-muted">
-                          <i class="fas fa-quote-left pe-2"></i>
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus et deleniti
-                          nesciunt sint eligendi reprehenderit reiciendis.
-                        </p>
-                      </div>
-                    </div>
-                    <ul class="list-unstyled d-flex justify-content-center text-warning mb-0">
-                      <li><i class="fas fa-star fa-sm"></i></li>
-                      <li><i class="fas fa-star fa-sm"></i></li>
-                      <li><i class="fas fa-star fa-sm"></i></li>
-                      <li><i class="fas fa-star fa-sm"></i></li>
-                      <li><i class="far fa-star fa-sm"></i></li>
-                    </ul>
-                  </div>
-                  <div class="carousel-item">
-                    <img class="rounded-circle shadow-1-strong mb-4"
-                      src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(1).webp" alt="avatar" style="width: 150px;" />
-                    <div class="row d-flex justify-content-center">
-                      <div class="col-lg-8">
-                        <h5 class="mb-3">Anna Deynah</h5>
-                        <p>UX Designer</p>
-                        <p class="text-muted">
-                          <i class="fas fa-quote-left pe-2"></i>
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus et deleniti
-                          nesciunt sint eligendi reprehenderit reiciendis, quibusdam illo, beatae quia
-                          fugit consequatur laudantium velit magnam error. Consectetur distinctio fugit
-                          doloremque.
-                        </p>
-                      </div>
-                    </div>
-                    <ul class="list-unstyled d-flex justify-content-center text-warning mb-0">
-                      <li><i class="fas fa-star fa-sm"></i></li>
-                      <li><i class="fas fa-star fa-sm"></i></li>
-                      <li><i class="fas fa-star fa-sm"></i></li>
-                      <li><i class="fas fa-star fa-sm"></i></li>
-                      <li><i class="far fa-star fa-sm"></i></li>
-                    </ul>
-                  </div>
+            
+              <div class="card-group">
+              <div class="card">
+                <img src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F658%2F936%2F411.jpg" class="card-img-top" alt="..."/>
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                 </div>
-                <button class="carousel-control-prev" type="button" data-mdb-target="#carouselExampleControls"
-                  data-mdb-slide="prev">
-                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                  <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-mdb-target="#carouselExampleControls"
-                  data-mdb-slide="next">
-                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                  <span class="visually-hidden">Next</span>
-                </button>
               </div>
+              <div class="card">
+                <img src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F658%2F936%2F411.jpg" class="card-img-top" alt="..."/>
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                  <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                  <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                </div>
+              </div>
+              <div class="card">
+                <img src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F658%2F936%2F411.jpg" class="card-img-top" alt="..."/>
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                  <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                </div>
+              </div>
+            </div>
+            
 
             </div>
         </div>
