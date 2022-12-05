@@ -12,6 +12,13 @@ a {
   text-decoration: none;
 }
 
+.card{
+  border-color: #D23737;
+  background-color: #272727;
+  color: white;
+}
+
+
 .side-bar {
   width: 15% !important;
   background-color: rgba(39, 39, 39, 0.4745098039) !important;
