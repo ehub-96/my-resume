@@ -105,9 +105,11 @@ a {
 }
 .accordion-button:not(.collapsed){
   color: #D23737;
-  background: rgba(128, 128, 128, 0.247);
+  background: rgba(128, 128, 128, 0.692);
 }
-
+.accordion-button:not(.collapsed)::after{
+  filter: brightness(0%);
+}
 .card-title2 {
   color: #D23737 !important;
   padding: 1em;
