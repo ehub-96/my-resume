@@ -102,8 +102,7 @@ a {
 }
 .accordion-item{
   border-color: #D23737;
-  background: #272727;
-}
+ }
 .accordion-button:not(.collapsed){
   color: #D23737;
   background: rgba(128, 128, 128, 0.692);
