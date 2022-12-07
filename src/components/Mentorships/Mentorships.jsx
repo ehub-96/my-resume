@@ -11,6 +11,9 @@ export class Mentorships extends Component {
         <div className='Mentorships'>
             <h1 className='s-title'>Mentorships</h1>
             <div className="row">
+            <div className="row">
+              <p>LOREM IMPSUM LOREM IMPSUM LOREM IPSUM HAIL CEASAR</p>
+            </div>
 
             
           
