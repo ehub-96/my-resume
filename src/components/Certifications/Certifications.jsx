@@ -13,7 +13,7 @@ export class Certifications extends Component {
             <div class="accordion" id="accordionPanelsStayOpenExample">
               <div class="accordion-item">
                 <h1 class="accordion-header" id="panelsStayOpen-headingOne">
-                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="false" aria-controls="panelsStayOpen-collapseOne">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="false" aria-controls="panelsStayOpen-collapseOne">
                     Accordion Item #1  <div class="btn-container text-center"><a href="../../../ErikHubResume.pdf" target="_blank" rel="noopener noreferrer"><MortarboardFill className='card-icon2' /></a></div>
                   </button>
                 </h1>
