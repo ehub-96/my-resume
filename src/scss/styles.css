@@ -143,9 +143,10 @@ a {
 .accordion-button:not(.collapsed)::after{
   filter: brightness(0%);
 }
-.accordion-button .collapsed::after{
-  color: white;
- }
+.accordion-button::after{
+  filter: brightness(0%) invert (100%);
+
+}
 .accordion-button:focus{
   box-shadow: inherit;
 }
