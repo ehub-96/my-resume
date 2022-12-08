@@ -144,8 +144,7 @@ a {
   filter: brightness(0%);
 }
 .accordion-button::after{
-  filter: brightness(0%) invert (100%);
-
+  color:white
 }
 .accordion-button:focus{
   box-shadow: inherit;
