@@ -17,12 +17,23 @@
         "default":"",
         "id":"skills-sidebar"
     },
-
     {
         "title":"Personal Projects",
         "link":"#PersonalProjects",
         "default":"",
         "id":"workShop-sidebar"
+    },
+    {
+        "title":"Certifications",
+        "link":"#Certifications",
+        "default":"",
+        "id":"Certifications-sidebar"
+    },
+    {
+        "title":"Mentorships",
+        "link":"#Mentorships",
+        "default":"",
+        "id":"Mentorships-sidebar"
     },
     {
         "title":"Contact",

@@ -8,7 +8,7 @@
     {
         "title": "Data Visualization",
         "desc": "Experienced with several libraries and programs, visualization and report making.",
-        "data": ["Dash Plotly","Power BI","Tableu","Anvil"],
+        "data": ["Dash Plotly","Power BI","Tableau","Anvil","Bokeh"],
         "active":false
     },
     {

@@ -11,6 +11,37 @@ p {
 a {
   text-decoration: none;
 }
+
+.card{
+  border-color: #D23737;
+  background-color: #272727;
+  color: white;
+}
+.card-footer{
+  border-color: #D23737;
+  color: white;
+  background: rgba(128, 128, 128, 0.692);
+}
+.card-icon2 {
+  color: #D23737;
+  width: 2rem;
+  height: 2rem;
+  margin: 1rem;
+  transform: translateY(0em);
+  transition: all ease 0.5s;
+}
+.card-img-top2{
+  align-self: center;
+  height: 140px;
+  width: 140px;
+  border-radius: 20%;
+  padding: 3px;
+  background: #D23737;
+  margin-top: 30px;
+}
+
+
+
 .side-bar {
   width: 15% !important;
   background-color: rgba(39, 39, 39, 0.4745098039) !important;
@@ -92,6 +123,32 @@ a {
   padding: 1rem;
 }
 
+.accordion {
+  background-color:#272727;
+  margin: 1rem !important;
+}
+.accordion-button{
+  color:  white;;
+  background-color:#2727279f
+}
+.accordion-item{
+  border-color: #D23737;
+  background-color: #272727;
+  color: white;
+ }
+.accordion-button:not(.collapsed){
+  color: white;
+  background: rgba(128, 128, 128, 0.692);
+}
+.accordion-button:not(.collapsed)::after{
+  filter: brightness(0%);
+}
+.accordion-button::after{
+  color:white
+}
+.accordion-button:focus{
+  box-shadow: inherit;
+}
 .card-title2 {
   color: #D23737 !important;
   padding: 1em;
