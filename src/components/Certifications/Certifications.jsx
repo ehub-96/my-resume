@@ -14,7 +14,7 @@ export class Certifications extends Component {
               <div class="accordion-item">
                 <h5 class="accordion-header" id="panelsStayOpen-headingOne">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="false" aria-controls="panelsStayOpen-collapseOne">
-                    Data Analysis & Visualization <div class="btn-container text-center"><a href="../../../DA.pdf" target="_blank" rel="noopener noreferrer"><MortarboardFill className='card-icon2' />Certification</a></div>
+                    Data Analysis & Visualization <div class="btn btn-outline-danger"><a href="../../../DA.pdf" target="_blank" rel="noopener noreferrer"><MortarboardFill className='card-icon2' />Certification</a></div>
                   </button>
                 </h5>
                 <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingOne">
