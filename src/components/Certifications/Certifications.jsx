@@ -20,7 +20,7 @@ export class Certifications extends Component {
                 <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingOne">
                   <div class="accordion-body">
                     <strong>2022 Python Data Analysis & Visualization Masterclass</strong> by Colt Steele in Udemy. 201 lectures with a total of 20.5 hours. This course deeply explores Pandas, Matplotlib, Seaborn while working with Jupyter Notebooks, accomplishing:
-
+                    <div>
                     <li>Read and manipulate Datasets</li>
                     <li>DataFrames and Series objects</li>
                     <li>Organize, filter, clean, aggregate, and analyze DataFrames</li>
@@ -28,7 +28,7 @@ export class Certifications extends Component {
                     <li>Hierarchical Indexing</li>
                     <li>Merge Datasets</li>
                     <li>Create complex visualizations</li>
-                    
+                    </div>
 
                   </div>
                 </div>
