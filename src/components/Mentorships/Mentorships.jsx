@@ -12,7 +12,7 @@ export class Mentorships extends Component {
             <h1 className='s-title'>Mentorships</h1>
             <div className="row">
             <div className="row">
-              <p>This area is dedicated to my friends who convinced me to learn coding and pushed me to get a foot in the Tech Industry </p>
+              <p>This area is dedicated to my friends who convinced me to learn coding and pushed me to get a foot in the Tech Industry.</p>
             </div>
 
             
