@@ -39,7 +39,7 @@ export class Mentorships extends Component {
                   <img src="https://writedirection.com/website/wp-content/uploads/2016/09/blank-profile-picture-973460_960_720.png" class="card-img-top2" alt="..."/>
                   <div class="card-body">
                     <h5 class="card-title">Erwin Arndt</h5>
-                    <p class="card-text">Office IT Administrator - Operations Technician at Westpay AB</p>
+                    <p class="card-text">Office IT Administrator - Operations Technician at Westpay AB.</p>
                   </div>
                   <div class="card-footer">
                   <div className="col-sm text-center">
@@ -55,7 +55,8 @@ export class Mentorships extends Component {
                   <img src="https://writedirection.com/website/wp-content/uploads/2016/09/blank-profile-picture-973460_960_720.png" class="card-img-top2" alt="..."/>
                   <div class="card-body">
                     <h5 class="card-title">Lucas Maldonado</h5>
-                    <p class="card-text">-</p>
+                    <p class="card-text">-
+                    -</p>
                   </div>
                   <div class="card-footer">
                   <div className="col-sm text-center">
