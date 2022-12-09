@@ -21,9 +21,9 @@ const About = () => {
 
         <div className="col">
             <p className="p-about">
-              Hello World!! I'm Erik, a 26 year old junior pythonista that is developing his skills in Data Analysis and Web Dev. With a solid marketing background and some logistics experience, now I'm looking for a new formal start in the tech industry.
+              Hello World!! I'm Erik, a 26 year old junior pythonista that is developing his skills in Data Science. With a solid marketing background and some logistics experience, now I'm looking for a new formal start in the tech industry.
               <br></br>
-              A logistics & SCM dropout turned marketer (Businesses Management and Pharmaceutical Marketing) from the Córdoba National University. I'm freelancing for a variety of local small business.
+              A logistics & SCM dropout turned marketer (Businesses Management and Marketing) from the Córdoba National University. I'm freelancing for a variety of local small business.
               <br></br> Now, I'm working towards a full-time career in DA, and looking for moveing back to Europe, but this time with my partner.
             </p>
         </div>

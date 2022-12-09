@@ -36,11 +36,11 @@ export class Certifications extends Component {
                 </div>
               </div>
               <div class="accordion-item">
-                <h1 class="accordion-header" id="panelsStayOpen-headingTwo">
+                <h5 class="accordion-header" id="panelsStayOpen-headingTwo">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
                     MySQL <div class="btn-container text-center"><a href="../../../MySQL.pdf" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' /></a></div>
                   </button>
-                </h1>
+                </h5>
                 <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
                   <div class="accordion-body">
                     <strong>The Ultimate MySQL Bootcamp</strong> by Colt Steele in Udemy. 651 lectures with a total of 37.5 hours. This course is a gentle but comprehensive introduction to MySQL:
@@ -59,26 +59,38 @@ export class Certifications extends Component {
                 </div>
               </div>
               <div class="accordion-item">
-                <h1 class="accordion-header" id="panelsStayOpen-headingThree">
+                <h5 class="accordion-header" id="panelsStayOpen-headingThree">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-                    Accordion Item #3 <div class="btn-container text-center"><a href="../../../ErikHubResume.pdf" target="_blank" rel="noopener noreferrer"><MortarboardFill className='card-icon2' /></a></div>
+                    Python Bootcamp <div class="btn-container text-center"><a href="../../../Python.pdf" target="_blank" rel="noopener noreferrer"><MortarboardFill className='card-icon2' /></a></div>
                   </button>
-                </h1>
+                </h5>
                 <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
                   <div class="accordion-body">
-                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                    <strong> Python essentials.</strong> by Colt Steele in Udemy. 189 lectures with a total of 14.5 hours. This course exolores everything from variables to data structures to object oriented programming and modules:
+                    <div className="col">
+                    <p className="p-about">
+                    <li>Variables</li>
+                    <li>Strings and string methods</li>
+                    <li>Booleans and boolean logic</li>
+                    <li>Loops</li>
+                    <li>Lists, Dictionaries and Tuples</li>
+                    <li>PIP</li>
+                    <li>Object Oriented Programming</li>
+                    <li>Classes</li>
+                    </p>
+                    </div>
                    </div>
                 </div>
               </div>
               <div class="accordion-item">
-                <h1 class="accordion-header" id="panelsStayOpen-headingFour">
+                <h5 class="accordion-header" id="panelsStayOpen-headingFour">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseFour">
-                    Accordion Item #4 <div class="btn-container text-center"><a href="../../../ErikHubResume.pdf" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' /></a></div>
+                  Business Management & Marketing of the Parmaceutical Industry <div class="btn-container text-center"><a href="../../../MKTN.pdf" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' /></a></div>
                   </button>
-                </h1>
+                </h5>
                 <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
                   <div class="accordion-body">
-                    <strong>This is the fourth item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                    <strong>Businesses Management and Marketing</strong> associate's from the Córdoba National University.
                    </div>
                 </div>
               </div>
