@@ -19,7 +19,8 @@ export class Certifications extends Component {
                 </h1>
                 <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingOne">
                   <div class="accordion-body">
-                    <strong>2022 Python Data Analysis & Visualization Masterclass</strong> by Colt Steele in Udemy. 201 lectures with a total of 20.5 hours. This course deeply explores Pandas, Matplotlib, Seaborn while working with Jupyter Notebooks. <code>.accordion-body</code> accomplishing
+                    <strong>2022 Python Data Analysis & Visualization Masterclass</strong> by Colt Steele in Udemy. 201 lectures with a total of 20.5 hours. This course deeply explores Pandas, Matplotlib, Seaborn while working with Jupyter Notebooks, accomplishing:
+                    
                     <li>Read and manipulate Datasets</li>
                     <li>DataFrames and Series objects</li>
                     <li>Organize, filter, clean, aggregate, and analyze DataFrames</li>
