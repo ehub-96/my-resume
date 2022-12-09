@@ -24,16 +24,16 @@
         "id":"workShop-sidebar"
     },
     {
-        "title":"Mentorships",
-        "link":"#Mentorships",
-        "default":"",
-        "id":"Mentorships-sidebar"
-    },
-    {
         "title":"Certifications",
         "link":"#Certifications",
         "default":"",
         "id":"Certifications-sidebar"
+    },
+    {
+        "title":"Mentorships",
+        "link":"#Mentorships",
+        "default":"",
+        "id":"Mentorships-sidebar"
     },
     {
         "title":"Contact",

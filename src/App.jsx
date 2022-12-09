@@ -41,13 +41,14 @@ function App() {
           <WorkShop/>
         </div>
 
+        <div className="component-container" id="Certifications">
+          <Certifications/>
+        </div>
+
         <div className="component-container" id="Mentorships">
           <Mentorships/>
         </div>
 
-        <div className="component-container" id="Certifications">
-          <Certifications/>
-        </div>
       </div>
 
       <div className="container-fluid" id="contact">
