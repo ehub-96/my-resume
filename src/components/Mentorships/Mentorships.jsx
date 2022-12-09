@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Linkedin, Github, Twitter } from 'react-bootstrap-icons';
 import { Card } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
-import blank from "../../../blank.png"
+
 
 
 export class Mentorships extends Component {
