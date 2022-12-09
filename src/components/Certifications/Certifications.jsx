@@ -38,12 +38,23 @@ export class Certifications extends Component {
               <div class="accordion-item">
                 <h1 class="accordion-header" id="panelsStayOpen-headingTwo">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-                    Accordion Item #2 <div class="btn-container text-center"><a href="../../../ErikHubResume.pdf" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' /></a></div>
+                    MySQL <div class="btn-container text-center"><a href="../../../MySQL.pdf" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' /></a></div>
                   </button>
                 </h1>
                 <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
                   <div class="accordion-body">
-                    <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                    <strong>The Ultimate MySQL Bootcamp</strong> by Colt Steele in Udemy. 651 lectures with a total of 37.5 hours. This course is a gentle but comprehensive introduction to MySQL:
+                    <div className="col">
+                    <p className="p-about">
+                    <li>SQL syntax</li>
+                    <li>Reports</li>
+                    <li>Aggregate Functions</li>
+                    <li>SQL joins</li>
+                    <li>MySQL 8.x Window Functions</li>
+                    <li>MySQL database views and virtual tables</li>
+                    <li>Design and implement complex database schemas</li>
+                    </p>
+                    </div>
                   </div>
                 </div>
               </div>
