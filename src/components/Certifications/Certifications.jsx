@@ -90,7 +90,7 @@ export class Certifications extends Component {
                 </h5>
                 <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
                   <div class="accordion-body">
-                    <strong>Businesses Management and Marketing</strong> associate's from the Córdoba National University.
+                    <strong>Businesses Management and Marketing</strong> associate's from the Córdoba National University. With a total of 800 hours.
                    </div>
                 </div>
               </div>
