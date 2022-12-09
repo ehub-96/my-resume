@@ -23,7 +23,7 @@ export class Mentorships extends Component {
                   <img src="https://writedirection.com/website/wp-content/uploads/2016/09/blank-profile-picture-973460_960_720.png" class="card-img-top2" alt=""/>
                   <div class="card-body">
                     <h5 class="card-title">Gastón Gigena</h5>
-                    <p class="card-text">QA engineer at Avature, Computer technician and Python freelance developer</p>
+                    <p class="card-text">QA engineer at Avature, Computer technician and Python freelance developer.</p>
                   </div>
                   <div class="card-footer">
                   <div className="col-sm text-center">
