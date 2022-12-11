@@ -50,7 +50,7 @@ export class Mentorships extends Component {
                   </div>
                 </div>
               </div>
-              <div class="col">
+              {/* <div class="col">
                 <div class="card border-danger mb-3">
                   <img src="https://writedirection.com/website/wp-content/uploads/2016/09/blank-profile-picture-973460_960_720.png" class="card-img-top2" alt="..."/>
                   <div class="card-body">
@@ -60,13 +60,13 @@ export class Mentorships extends Component {
                   </div>
                   <div class="card-footer">
                   <div className="col-sm text-center">
-                    {/* <a href="https://github.com/ehub-96" target="_blank" rel="noopener noreferrer"><Github className='card-icon2' /></a> */}
+                    <a href="https://github.com/ehub-96" target="_blank" rel="noopener noreferrer"><Github className='card-icon2' /></a>
                     <a href="_blank" target="_blank" rel="noopener noreferrer"><Linkedin className='card-icon2' /></a>
-                    {/* <a href="https://twitter.com/ehub96?t=hQ_1F1a5bBjxX6k1RJCqQg&s=08" target="_blank" rel="noopener noreferrer"><Twitter className='card-icon2' /></a> */}
+                    <a href="https://twitter.com/ehub96?t=hQ_1F1a5bBjxX6k1RJCqQg&s=08" target="_blank" rel="noopener noreferrer"><Twitter className='card-icon2' /></a>
                   </div>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           
             
