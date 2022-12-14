@@ -20,9 +20,6 @@ const Card = ({props}) => {
     },
     'tableau':{
       img: tableau
-    },
-    'database':{
-      img: database
     }
   }
     
