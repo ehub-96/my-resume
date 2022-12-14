@@ -22,7 +22,7 @@ export class Mentorships extends Component {
             <div class="row row-cols-1 row-cols-md-3 g-4 justify-content-center">
               <div class="col">
                 <div class="card border-danger mb-3">
-                  <img src="https://mega.nz/file/9HsGEJgC#rFQGi2aJSeBFDopXLBlzps30feZDlI0tydmSQMvLILg" class="card-img-top2" alt=""/>
+                  <img src="https://raw.githubusercontent.com/ehub-96/kiddo/main/kiddo.jpg?token=GHSAT0AAAAAAB4F3NTEIX6WRNSJX3FMXPREY42BLUQ" class="card-img-top2" alt=""/>
                   <div class="card-body">
                     <h5 class="card-title">Gastón Gigena</h5>
                     <p class="card-text">QA engineer at Avature, Computer technician and Python freelance developer.</p>
@@ -38,7 +38,7 @@ export class Mentorships extends Component {
               </div>
               <div class="col">
                 <div class="card border-danger mb-3">
-                  <img src="https://mega.nz/file/0X82nQAJ#6B6Edlj2agiibsd4QUbsQq8m0kzkivYcbDucMqM--FE" class="card-img-top2" alt="..."/>
+                  <img src="https://raw.githubusercontent.com/ehub-96/erwin/main/erwin.jpg?token=GHSAT0AAAAAAB4F3NTE2PVJ4IRAHVQUN5NEY42BLHA" class="card-img-top2" alt="..."/>
                   <div class="card-body">
                     <h5 class="card-title">Erwin Arndt</h5>
                     <p class="card-text">Office IT Administrator - Operations Technician at Westpay AB.</p>
