@@ -38,7 +38,7 @@ export class Mentorships extends Component {
               </div>
               <div class="col">
                 <div class="card border-danger mb-3">
-                  <img src="https://github.com/ehub-96/erwin/blob/main/erwin.jpg?raw=true" class="card-img-top2" alt="..."/>
+                  <img src="https://i.pinimg.com/originals/a1/d1/80/a1d1803413718f67662dbb9658bd86d8.jpg" class="card-img-top2" alt="..."/>
                   <div class="card-body">
                     <h5 class="card-title">Erwin Arndt</h5>
                     <p class="card-text">Office IT Administrator - Operations Technician at Westpay AB.</p>
