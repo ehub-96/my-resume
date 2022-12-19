@@ -1,7 +1,7 @@
 [
     {
         "title": "Data Analysis",
-        "desc": "Experienced with several libraries and programs, Data Research, Cleaning, Collection, Assessment, Analysis & Quallity.",
+        "desc": "Experienced with several libraries and programs, Data Research, Cleaning, Collection, Assessment, Analysis & Quality.",
         "data": ["Pandas","Jupyter Notebook", "PySpark","ETL","EDA"],
         "active":true
     },
