@@ -4,6 +4,7 @@ import About from './components/about/About'
 import Skills from './components/skills/Skills'
 import Footer from './components/footer/Footer'
 import WorkShop from './components/workShop/WorkShop'
+import Capstone from './components/workShop/Capstone'
 import Sidebar from './components/sidebar/Sidebar'
 import Certifications from './components/Certifications/Certifications'
 import Mentorships from'./components/Mentorships/Mentorships'
@@ -35,6 +36,10 @@ function App() {
 
         <div className="component-container" id="skills">
           <Skills/>
+        </div>
+
+        <div className="component-container" id="CapstoneProjects">
+          <Capstone/>
         </div>
         
         <div className="component-container" id="PersonalProjects">
