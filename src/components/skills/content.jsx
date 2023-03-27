@@ -2,7 +2,7 @@ import React from 'react'
 
 const content = ({props}) => {
   return (
-    <div className={`tab-pane fade ${props.active ? 'show active' : ''}`} id={`pills-${props.title.replace(' ','')}`} role="tabpanel" aria-labelledby={`pills-${props.title.replace(' ','')}-tab`}>
+    <div className={`tab-pane fade ${props.active ? 'show active' : ''}`} id={`pills-${props.id}`} role="tabpanel" aria-labelledby={`pills-${props.id}-tab`}>
         <p>{props.desc}</p>
           <ul className='ul-list'>
            { props.data.map(e=>{
