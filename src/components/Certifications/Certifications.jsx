@@ -19,7 +19,7 @@ export class Certifications extends Component {
                 </h5>
                 <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingOne">
                   <div class="accordion-body">
-                    <strong>2022 Python Data Analysis & Visualization Masterclass</strong> by Colt Steele in Udemy. 201 lectures with a total of 20.5 hours. This course deeply explores Pandas, Matplotlib, Seaborn while working with Jupyter Notebooks, accomplishing:
+                    <strong>2022 Python Data Analysis & Visualization Masterclass</strong> by Colt Steele in Udemy. A total of 20.5 hours. This course deeply explores Pandas, Matplotlib, Seaborn while working with Jupyter Notebooks, accomplishing:
                     <div className="col">
                     <p className="p-about">
                     <li>Read and manipulate Datasets</li>
@@ -43,7 +43,7 @@ export class Certifications extends Component {
                 </h5>
                 <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
                   <div class="accordion-body">
-                    <strong>The Ultimate MySQL Bootcamp</strong> by Colt Steele in Udemy. 651 lectures with a total of 37.5 hours. This course is a gentle but comprehensive introduction to MySQL:
+                    <strong>The Ultimate MySQL Bootcamp</strong> by Colt Steele in Udemy. A total of 37.5 hours. This course is a gentle but comprehensive introduction to MySQL:
                     <div className="col">
                     <p className="p-about">
                     <li>SQL syntax</li>
@@ -66,7 +66,7 @@ export class Certifications extends Component {
                 </h5>
                 <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
                   <div class="accordion-body">
-                    <strong> Python essentials.</strong> by Colt Steele in Udemy. 189 lectures with a total of 14.5 hours. This course exolores everything from variables to data structures to object oriented programming and modules:
+                    <strong> Python essentials.</strong> by Colt Steele in Udemy. A total of 14.5 hours. This course exolores everything from variables to data structures to object oriented programming and modules:
                     <div className="col">
                     <p className="p-about">
                     <li>Variables</li>
