@@ -1,15 +1,15 @@
 [
 
     {
-        "title": "Data Analysis & BI",
-        "desc": "Experienced with several libraries and programs, Data Research, Cleaning, Collection, Assessment, Analysis & Quality.",
-        "data": ["Data Visualization","Database Design & Management", "Marketing","Digitalization","Social Media"],
+        "title": "A",
+        "desc": "A",
+        "data": ["A","B", "C"],
         "active":true
     },
     {
-        "title": "Data Visualization",
-        "desc": "Experienced with several libraries and programs, visualization and report making.",
-        "data": ["Dash Plotly","Power BI","Tableau","Anvil","Bokeh"],
+        "title": "A",
+        "desc": "A",
+        "data": ["A","B", "C"],
         "active":false
     }
 ]
