@@ -1,15 +1,15 @@
 [
 
     {
-        "title": "A",
-        "desc": "A",
-        "data": ["A","B", "C"],
+        "title": "Data Analysis",
+        "desc": "Experienced with several libraries and programs, Data Research, Cleaning, Collection, Assessment, Analysis & Quality.",
+        "data": ["Pandas","Jupyter Notebook", "PySpark","ETL","EDA"],
         "active":true
     },
     {
-        "title": "A",
-        "desc": "A",
-        "data": ["A","B", "C"],
+        "title": "Data Visualization",
+        "desc": "Experienced with several libraries and programs, visualization and report making.",
+        "data": ["Dash Plotly","Power BI","Tableau","Anvil","Bokeh"],
         "active":false
     }
 ]
