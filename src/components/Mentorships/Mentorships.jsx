@@ -21,7 +21,7 @@ export class Mentorships extends Component {
           
             <div class="row row-cols-1 row-cols-md-3 g-4 justify-content-center">
               <div class="col">
-                <div class="card border-danger mb-3">
+                <div class="card mb-3">
                   <img src="https://i.pinimg.com/originals/a1/9a/11/a19a115e65e5146254f8646fb08b2db5.jpg" class="card-img-top2" alt=""/>
                   <div class="card-body">
                     <h5 class="card-title">Gastón Gigena</h5>
@@ -37,7 +37,7 @@ export class Mentorships extends Component {
                 </div>
               </div>
               <div class="col">
-                <div class="card border-danger mb-3">
+                <div class="card mb-3">
                   <img src="https://i.pinimg.com/originals/a1/d1/80/a1d1803413718f67662dbb9658bd86d8.jpg" class="card-img-top2" alt="..."/>
                   <div class="card-body">
                     <h5 class="card-title">Erwin Arndt</h5>
