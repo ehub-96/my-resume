@@ -17,12 +17,12 @@ export class Certifications extends Component {
           <div class="accordion-item">
               <h5 class="accordion-header" id="panelsStayOpen-headingOne">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="false" aria-controls="panelsStayOpen-collapseOne">
-                  Data Eingineering<div class="btn-container text-center"><a href="" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="Certification tooltip" /></a></div>
+                  Data Engineering<div class="btn-container text-center"><a href="" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="Certification tooltip" /></a></div>
                 </button>
               </h5>
               <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingOne">
                 <div class="accordion-body">
-                  <strong>2023 Cohort Data Eingineering Zoomcamp</strong> by <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank" class="stretched-link">Data Talks Club</a>. An intensive 14-week training program that provided a comprehensive and immersive learning experience with both pre recorded classes and live tutoring with <a href="https://www.linkedin.com/in/agrigorev/" target="_blank" class="stretched-link">Alexey Grigorev</a> and other <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp#instructors" target="_blank" class="stretched-link">instructors</a> focusing on real-world projects and industry-relevant tools and techniques:
+                  <strong>2023 Cohort Data Engineering Zoomcamp</strong> by <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank" class="stretched-link">Data Talks Club</a>. An intensive 14-week training program that provided a comprehensive and immersive learning experience with both pre recorded classes and live tutoring with <a href="https://www.linkedin.com/in/agrigorev/" target="_blank" class="stretched-link">Alexey Grigorev</a> and other <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp#instructors" target="_blank" class="stretched-link">instructors</a> focusing on real-world projects and industry-relevant tools and techniques:
                   <div className="col">
                   <p className="p-about">
                   <li>Docker and containerization</li>

@@ -2,13 +2,13 @@
 
     {
         "title": "Data Analysis - BI ",
-        "desc": "Experienced in data analysis with a focus on supporting small businesses and family-owned shops. Utilized data analysis techniques to provide actionable insights           and drive growth for clients. Worked as a freelance consultant, leveraging expertise in data visualization and statistical analysis to optimize operations and drive revenue growth.",
+        "desc": "Experienced in data analysis with a focus on supporting small businesses and family-owned shops. Utilized data analysis techniques to provide actionable insights and drive growth for clients. Worked as a freelance consultant, leveraging expertise in data visualization and statistical analysis to optimize operations and drive revenue growth.",
         "data": ["Data Visualization","Database Design & Management", "Marketing","Digitalization","Social Media"],
         "active":true, "id": "DataAnalysis-BI"
     },
     {
-        "title": "Data Eingeniring",
-        "desc": "Recently completed an intensive data engineering course focused on workflow orchestration, data warehousing, and cloud services. Developed expertise in batch and          streaming processing, analytics engineering, and data exploration, manipulation, and visualization. Proficient in industry-standard tools and platforms such as Apache Spark, AWS, and Google Cloud Platform. Excited to apply newly acquired skills to real-world data engineering challenges.",
+        "title": "Data Engineering",
+        "desc": "Recently completed an intensive data engineering course focused on workflow orchestration, data warehousing, and cloud services. Developed expertise in batch and streaming processing, analytics engineering, and data exploration, manipulation, and visualization. Proficient in industry-standard tools and platforms such as Apache Spark, AWS, and Google Cloud Platform. Excited to apply newly acquired skills to real-world data engineering challenges.",
         "data": ["ETL","EDA","Data Warehousing"],
         "active":false, "id":"DataVisualization"
     }
