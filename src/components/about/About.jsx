@@ -9,7 +9,7 @@ const About = () => {
             <div className="main-title">
                 <img src={Ehub}/>
                 <h2 className='title'>Erik Hub - Data Professional</h2>
-                <div class="btn-container text-center"><a href="../../../ErikHubResume.pdf" download="ErikHubResume.pdf" class="btn btn-vd bg-danger">Download CV</a></div>
+                <div class="btn-container text-center"><a href="src\assets\download\ErikHubResume.pdf" download="ErikHubResume.pdf" class="btn btn-vd bg-danger">Download CV</a></div>
                 
                 
                 
