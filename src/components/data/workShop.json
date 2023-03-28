@@ -1,11 +1,5 @@
 [
-    {
-        "title":"DTC Data Engineering Capstone Project",
-        "desc":"Capstone Project of the DTC Data Engineering Zoomcamp ",
-        "img":"DTC.png",
-        "git":"https://github.com/ehub-96/DTC-Capstone-Project",
-        "link":"https://public.tableau.com/app/profile/erik.hub5895/viz/DTCDEDashboard/Story1"
-    },
+
     {
         "title":"Plotly Dash",
         "desc":"Dashboards made with Plotly Dash in Python",
