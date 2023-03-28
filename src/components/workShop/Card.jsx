@@ -1,5 +1,6 @@
 import React from 'react'
 import plotlydash from '../../assets/card-image/plotlydashlogo.png'
+import dtc from '../../assets/card-image/dtc.png'
 import powerbi from '../../assets/card-image/powerbi.png'
 import tableau from '../../assets/card-image/tableau.png'
 import database from '../../assets/card-image/sqllogo.png'
@@ -9,8 +10,8 @@ import { EyeFill } from 'react-bootstrap-icons';
 const Card = ({props}) => {
 
   const images = {
-    'pandas/jupyter':{
-      img: pandas
+    'dtcdezoomcampcapstoneproject':{
+      img: dtc
     },
     'plotlydash':{
       img: plotlydash
