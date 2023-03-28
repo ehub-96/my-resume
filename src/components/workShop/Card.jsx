@@ -1,6 +1,6 @@
 import React from 'react'
 import plotlydash from '../../assets/card-image/plotlydashlogo.png'
-import dtc from '../../assets/card-image/dtc.png'
+import dtc from '../../assets/card-image/DTC.png'
 import powerbi from '../../assets/card-image/powerbi.png'
 import tableau from '../../assets/card-image/tableau.png'
 import database from '../../assets/card-image/sqllogo.png'
