@@ -14,7 +14,53 @@ export class Certifications extends Component {
           <div className="row">
           <div class="accordion" id="accordionPanelsStayOpenExample">
 
-          <div class="accordion-item">
+          {/*<div class="accordion-item">
+              <h5 class="accordion-header" id="panelsStayOpen-headingOne">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="false" aria-controls="panelsStayOpen-collapseOne">
+                  Data Engineering<div class="btn-container text-center"><a href="" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="Certification tooltip" /></a></div>
+                </button>
+              </h5>
+              <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingOne">
+                <div class="accordion-body">
+                   <strong>2023 Cohort Data Engineering Zoomcamp</strong> by <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank" class="stretched-link">Data Talks Club</a>. An intensive 14-week training program that provided a comprehensive and immersive learning experience with both pre recorded classes and live tutoring with <a href="https://www.linkedin.com/in/agrigorev/" target="_blank" class="stretched-link">Alexey Grigorev</a> and other <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp#instructors" target="_blank" class="stretched-link">instructors</a> focusing on real-world projects and industry-relevant tools and techniques: 
+                  <div className="col">
+                  <p className="p-about">
+                  <li>Docker and containerization</li>
+                  <li>Workflow Orchestration</li>
+                  <li>Data Warehousing and Cloud Services</li>
+                  <li>Analyitics Engineering</li>
+                  <li>Batch Processing</li>
+                  <li>Streaming</li>
+                
+                  </p>
+                  </div>
+
+                  </div>
+                </div>
+              </div>*/}
+
+
+            <div class="accordion-item">
+              <h5 class="accordion-header" id="panelsStayOpen-headingTwo">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+                  Data Analysis & Visualization <div class="btn-container text-center"><a href="../../../DA.pdf" target="_blank" rel="noopener noreferrer"><MortarboardFill className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="Certification tooltip" /></a></div>
+                </button>
+              </h5>
+              <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
+                <div class="accordion-body">
+                  <strong>2022 Python Data Analysis & Visualization Masterclass</strong> by Colt Steele in Udemy. A total of 20.5 hours. This course deeply explores Pandas, Matplotlib, Seaborn while working with Jupyter Notebooks, accomplishing:
+                  <div className="col">
+                  <p className="p-about">
+                  <li>Read and manipulate Datasets</li>
+                  <li>DataFrames and Series objects</li>
+                  <li>Organize, filter, clean, aggregate, and analyze DataFrames</li>
+                  <li>Extract and manipulate date, time, and textual information from data</li>
+                  <li>Hierarchical Indexing</li>
+                  <li>Merge Datasets</li>
+                  <li>Create complex visualizations</li>
+                  </p>
+                  </div>
+                  <div class="accordion-item">
               <h5 class="accordion-header" id="panelsStayOpen-headingOne">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="false" aria-controls="panelsStayOpen-collapseOne">
                   Data Engineering<div class="btn-container text-center"><a href="" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="Certification tooltip" /></a></div>
@@ -38,29 +84,6 @@ export class Certifications extends Component {
                   </div>
                 </div>
               </div>
-
-
-            <div class="accordion-item">
-              <h5 class="accordion-header" id="panelsStayOpen-headingTwo">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-                  Data Analysis & Visualization <div class="btn-container text-center"><a href="../../../DA.pdf" target="_blank" rel="noopener noreferrer"><MortarboardFill className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="Certification tooltip" /></a></div>
-                </button>
-              </h5>
-              <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
-                <div class="accordion-body">
-                  <strong>2022 Python Data Analysis & Visualization Masterclass</strong> by Colt Steele in Udemy. A total of 20.5 hours. This course deeply explores Pandas, Matplotlib, Seaborn while working with Jupyter Notebooks, accomplishing:
-                  <div className="col">
-                  <p className="p-about">
-                  <li>Read and manipulate Datasets</li>
-                  <li>DataFrames and Series objects</li>
-                  <li>Organize, filter, clean, aggregate, and analyze DataFrames</li>
-                  <li>Extract and manipulate date, time, and textual information from data</li>
-                  <li>Hierarchical Indexing</li>
-                  <li>Merge Datasets</li>
-                  <li>Create complex visualizations</li>
-                  </p>
-                  </div>
-
                   </div>
                 </div>
               </div>
