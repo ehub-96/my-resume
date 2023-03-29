@@ -31,7 +31,7 @@ export class Certifications extends Component {
                               Nested Accordion Item #1
                             </button>
                               
-                              <div class="progress" role="progressbar" aria-label="Animated striped example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+                              <div class="progress" role="progressbar" aria-label="Animated striped example" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">
                                 <div class="progress-bar progress-bar-striped bg-danger progress-bar-animated" style="width: 10%">NEW COUSE</div>
                               </div>
 
