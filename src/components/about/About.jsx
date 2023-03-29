@@ -13,10 +13,10 @@ const About = () => {
 
                   <div class="row">
                     <div class="col-md-6">
-                      <button class="btn btn-vd bg-danger"href="../../../ErikHubResume.pdf" download="ErikHubResume.pdf"data-bs-toggle="tooltip" data-bs-placement="top" title="Human-Friendly Resume">Recruiter CV</button>
+                      <a class="btn btn-vd bg-danger"href="../../../ErikHubResume.pdf" download="ErikHubResume.pdf"data-bs-toggle="tooltip" data-bs-placement="top" title="Human-Friendly Resume">Recruiter CV</a>
                     </div>
                     <div class="col-md-6">
-                      <button class="btn btn-vd bg-danger"href="../../../ErikHubResume.pdf" download="ErikHubResume.pdf"data-bs-toggle="tooltip" data-bs-placement="top" title=" Machine-Friendly Resume">Scan CV</button>
+                      <a class="btn btn-vd bg-danger"href="../../../ErikHubResume.pdf" download="ErikHubResume.pdf"data-bs-toggle="tooltip" data-bs-placement="top" title=" Machine-Friendly Resume">Machine CV</a>
                     </div>
                   </div>
 
