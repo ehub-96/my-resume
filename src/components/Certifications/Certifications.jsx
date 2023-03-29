@@ -119,7 +119,7 @@ export class Certifications extends Component {
                 </h5>
                 <div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFive">
                   <div class="accordion-body">
-                    <strong>Businesses Management and Marketing</strong> associate's from the Córdoba National University. With a total of 800 hours. This intensive accelerated bachelor's program offers comprehensive training in modern marketing, business strategy, and legal principles. The program places a strong emphasis on practical learning, with a focus on real-world scenarios and hands-on experience.
+                    <strong>Business Management and Marketing</strong> associate's from the Córdoba National University. With a total of 800 hours. This intensive accelerated bachelor's program offers comprehensive training in modern marketing, business strategy, and legal principles. The program places a strong emphasis on practical learning, with a focus on real-world scenarios and hands-on experience.
                     <div className="col">
                     <p className="p-about">
                     <li>Digital Marketing</li>
