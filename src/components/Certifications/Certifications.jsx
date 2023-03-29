@@ -36,7 +36,7 @@ export class Certifications extends Component {
                           <div id="flush-collapseOne" class="accordion-collapse collapse">
                             <div class="accordion-body">Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the first item's accordion body.</div>
                                 <div>
-                                <div class="btn-container right">
+                                <div class="d-flex justify-content-end">
                                   <div class="btn-group" role="group" aria-label="Basic example">
                                       <button type="button" class="btn btn-outline-danger">Left</button>
                                       <button type="button" class="btn btn-outline-danger">Middle</button>
