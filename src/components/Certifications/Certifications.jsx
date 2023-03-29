@@ -11,7 +11,7 @@ export class Certifications extends Component {
     return (
       <div className='Certifications'>
           <h1 className='s-title'>Certifications</h1>
-            <p>(Click the academic cap/trencher to see diploma)</p>
+            <h3>(Click the academic cap/trencher to see diploma)</h3>
           <div className="row">
           <div class="accordion" id="accordionPanelsStayOpenExample">
 
