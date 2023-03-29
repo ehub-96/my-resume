@@ -14,6 +14,11 @@ export class Certifications extends Component {
           <div className="row">
           <div class="accordion" id="accordionPanelsStayOpenExample">
 
+          {/*
+              Hola Ñeri, esto que esta comentado, esta copypasteado mas abajo. Te lo indico con otro comentario. Besitos.
+          */}
+
+
           {/*<div class="accordion-item">
               <h5 class="accordion-header" id="panelsStayOpen-headingOne">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="false" aria-controls="panelsStayOpen-collapseOne">
@@ -60,6 +65,9 @@ export class Certifications extends Component {
                   <li>Create complex visualizations</li>
                   </p>
                   </div>
+                   {/*
+                       Acá está copypasteado bb <3
+                  */}
                   <div class="accordion-item">
               <h5 class="accordion-header" id="panelsStayOpen-headingOne">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="false" aria-controls="panelsStayOpen-collapseOne">
