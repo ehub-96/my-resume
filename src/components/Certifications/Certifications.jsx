@@ -30,6 +30,12 @@ export class Certifications extends Component {
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
                               Nested Accordion Item #1
                             </button>
+                              
+                              <div class="progress" role="progressbar" aria-label="Animated striped example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+                                <div class="progress-bar progress-bar-striped bg-danger progress-bar-animated" style="width: 10%">NEW COUSE</div>
+                              </div>
+
+
                           </h2>
                           <div id="flush-collapseOne" class="accordion-collapse collapse">
                             <div class="accordion-body">Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the first item's accordion body.</div>
