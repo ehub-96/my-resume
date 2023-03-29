@@ -8,7 +8,7 @@ const About = () => {
         <div className="col-sm-6">
             <div className="main-title">
                 <img src={Ehub}/>
-                <h2 className='title'>Erik Hub - Data Professional</h2>
+                <h2 className='title'>test tester - Data Professional</h2>
                 <div class="btn-container text-center">
 
                   <div class="row">
