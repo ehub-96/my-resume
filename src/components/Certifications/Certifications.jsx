@@ -65,6 +65,7 @@ export class Certifications extends Component {
                   </div>
                 </div>
               </div>
+            </div>
 
 
 
@@ -118,6 +119,7 @@ export class Certifications extends Component {
                       </div>
                     </div>
                   </div>
+                </div>
 
 
 
@@ -134,11 +136,10 @@ export class Certifications extends Component {
                 </div>
               </div>
             </div>
-
-
-           </div>
           </div>
-        </div>
+
+
+
 
             
         
