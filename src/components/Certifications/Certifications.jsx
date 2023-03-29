@@ -22,7 +22,7 @@ export class Certifications extends Component {
               </h5>
               <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingOne">
                 <div class="accordion-body">
-                 <strong>2023 Cohort Data Engineering Zoomcamp</strong> by <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank" class="stretched-link">Data Talks Club</a>. An intensive 14-week training program that provided a comprehensive and immersive learning experience with both pre recorded classes and live tutoring with <a href="https://www.linkedin.com/in/agrigorev/" target="_blank" class="stretched-link">Alexey Grigorev</a> and other <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp#instructors" target="_blank" class="stretched-link">instructors</a> focusing on real-world projects and industry-relevant tools and techniques: 
+                 <strong>2023 Cohort Data Engineering Zoomcamp</strong> by Data Talks Club. An intensive 14-week training program that provided a comprehensive and immersive learning experience with both pre recorded classes and live tutoring with Alexey Grigorev and other instructors focusing on real-world projects and industry-relevant tools and techniques: 
                   <div className="col">
                   <p className="p-about">
                   <li>Docker and containerization</li>
@@ -48,7 +48,7 @@ export class Certifications extends Component {
               </h5>
               <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
                 <div class="accordion-body">
-                  <strong>2022 Python Data Analysis & Visualization Masterclass</strong> by Colt Steele in Udemy. A total of 20.5 hours. This course deeply explores Pandas, Matplotlib, Seaborn while working with Jupyter Notebooks, accomplishing:
+                  <strong>2022 Python Data Analysis & Visualization Masterclass</strong> by Colt Steele in Udemy. A total of 20.5 hours. This course provides an in-depth understanding of the Pandas, Matplotlib, and Seaborn libraries, as well as other essential tools for data analysis using a wide range of real-world datasets to ensure hands-on experience, covering:
                   <div className="col">
                   <p className="p-about">
                   <li>Read and manipulate Datasets</li>
@@ -72,7 +72,7 @@ export class Certifications extends Component {
                 </h5>
                 <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
                   <div class="accordion-body">
-                    <strong>The Ultimate MySQL Bootcamp</strong> by Colt Steele in Udemy. A total of 37.5 hours. This course is a gentle but comprehensive introduction to MySQL:
+                    <strong>The Ultimate MySQL Bootcamp</strong> by Colt Steele in Udemy. A total of 37.5 hours. This course is a comprehensive introduction to databases and SQL syntax and complex queries.
                     <div className="col">
                     <p className="p-about">
                     <li>SQL syntax</li>
@@ -95,7 +95,7 @@ export class Certifications extends Component {
                 </h5>
                 <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
                   <div class="accordion-body">
-                    <strong> Python essentials.</strong> by Colt Steele in Udemy. A total of 14.5 hours. This course exolores everything from variables to data structures to object oriented programming and modules:
+                    <strong> Python essentials.</strong> by Colt Steele in Udemy. A total of 14.5 hours. This course exolores everything from variables to data structures to object-oriented programming and modules, introducing to pandas, flask, scikitlearn and django :
                     <div className="col">
                     <p className="p-about">
                     <li>Variables</li>
@@ -119,7 +119,15 @@ export class Certifications extends Component {
                 </h5>
                 <div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFive">
                   <div class="accordion-body">
-                    <strong>Businesses Management and Marketing</strong> associate's from the Córdoba National University. With a total of 800 hours.
+                    <strong>Businesses Management and Marketing</strong> associate's from the Córdoba National University. With a total of 800 hours. This intensive accelerated bachelor's program offers comprehensive training in modern marketing, business strategy, and legal principles. The program places a strong emphasis on practical learning, with a focus on real-world scenarios and hands-on experience.
+                    <div className="col">
+                    <p className="p-about">
+                    <li>Digital Marketing</li>
+                    <li>Social Media Management</li>
+                    <li>BI Tools</li>
+                    <li>Business Operations</li>
+                    </p>
+                    </div>
                    </div>
                 </div>
               </div>
