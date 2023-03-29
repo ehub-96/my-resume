@@ -79,7 +79,7 @@ export class Certifications extends Component {
                    <strong>2023 Cohort Data Engineering Zoomcamp</strong> by Data Talks Club. An intensive 14-week training program that provided a comprehensive and immersive learning experience with both pre recorded classes and live tutoring with Alexey Grigorev and other instructors focusing on real-world projects and industry-relevant tools and techniques: 
                   <div className="col">
                   <p className="p-about">
-                    <li><a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank" class="stretched-link">Data Talks Club</a></li>
+                    <li><a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank" class="stretched-link">Data Talks Club aaaaa</a></li>
                     <li><a href="https://www.linkedin.com/in/agrigorev/" target="_blank" class="stretched-link">Alexey Grigorev</a></li>
                     <li><a href="https://github.com/DataTalksClub/data-engineering-zoomcamp#instructors" target="_blank" class="stretched-link">instructors</a></li>
                   <li>Docker and containerization</li>
