@@ -9,7 +9,19 @@ const About = () => {
             <div className="main-title">
                 <img src={Ehub}/>
                 <h2 className='title'>Erik Hub - Data Professional</h2>
-                <div class="btn-container text-center"><a href="../../../ErikHubResume.pdf" download="ErikHubResume.pdf" class="btn btn-vd bg-danger">Download CV</a></div>                            
+                <div class="btn-container text-center">
+
+                  <div class="row">
+                    <div class="col-md-6">
+                      <button class="btn btn-vd bg-danger"href="../../../ErikHubResume.pdf" download="ErikHubResume.pdf"data-bs-toggle="tooltip" data-bs-placement="top" title="Human-Friendly Resume">Recruiter CV</button>
+                    </div>
+                    <div class="col-md-6">
+                      <button class="btn btn-vd bg-danger"href="../../../ErikHubResume.pdf" download="ErikHubResume.pdf"data-bs-toggle="tooltip" data-bs-placement="top" title=" Machine-Friendly Resume">Scan CV</button>
+                    </div>
+                  </div>
+
+                  </div>
+        
                                                         
             </div>
            
