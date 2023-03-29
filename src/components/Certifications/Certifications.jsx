@@ -95,7 +95,7 @@ export class Certifications extends Component {
                 </h5>
                 <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
                   <div class="accordion-body">
-                    <strong> Python essentials.</strong> by Colt Steele in Udemy. A total of 14.5 hours. This course exolores everything from variables to data structures to object-oriented programming and modules, introducing to pandas, flask, scikitlearn and django :
+                    <strong> Python essentials.</strong> by Colt Steele in Udemy. A total of 14.5 hours. This course explores everything from variables to data structures to object-oriented programming and modules, introducing to pandas, flask, scikitlearn and django:
                     <div className="col">
                     <p className="p-about">
                     <li>Variables</li>
