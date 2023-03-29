@@ -26,6 +26,8 @@ export class Certifications extends Component {
 
                       <div class="accordion accordion-flush" id="accordionFlushExample">
                         <div class="accordion-item">
+
+
                           <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
                               Nested Accordion Item #1
@@ -33,8 +35,17 @@ export class Certifications extends Component {
                           </h2>
                           <div id="flush-collapseOne" class="accordion-collapse collapse">
                             <div class="accordion-body">Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the first item's accordion body.</div>
+                                <div>
+                                <div class="btn-group" role="group" aria-label="Basic example">
+                                  <button type="button" class="btn btn-primary">Left</button>
+                                  <button type="button" class="btn btn-primary">Middle</button>
+                                  <button type="button" class="btn btn-primary">Right</button>
+                                </div>
+                              </div>
                           </div>
                         </div>
+
+
                         <div class="accordion-item">
                           <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
@@ -45,6 +56,8 @@ export class Certifications extends Component {
                             <div class="accordion-body">Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the second item's accordion body. Let's imagine this being filled with some actual content.</div>
                           </div>
                         </div>
+
+
                         <div class="accordion-item">
                           <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
