@@ -133,33 +133,6 @@ export class Certifications extends Component {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             </div>
         </div>
 
