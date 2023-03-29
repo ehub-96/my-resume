@@ -10,8 +10,11 @@ export class Certifications extends Component {
   render() {
     return (
       <div className='Certifications'>
+        <div>
           <h1 className='s-title'>Certifications</h1>
-            <h3>(Click the academic cap/trencher to see diploma)</h3>
+          <p>(Click the academic cap/trencher to see diploma)</p>
+        </div>
+
           <div className="row">
           <div class="accordion" id="accordionPanelsStayOpenExample">
 
