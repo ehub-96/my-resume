@@ -38,9 +38,9 @@ export class Certifications extends Component {
                                 <div>
                                 <div class="d-flex justify-content-end">
                                   <div class="btn-group" role="group" aria-label="Basic example">
-                                      <button type="button" class="btn btn-outline-danger">Left</button>
-                                      <button type="button" class="btn btn-outline-danger">Middle</button>
-                                      <button type="button" class="btn btn-outline-danger">Right</button>
+                                      <button type="button" class="btn btn-outline-danger">BENIS</button>
+                                      <button type="button" class="btn btn-outline-danger">GIGA CHAD</button>
+                                      <button type="button" class="btn btn-outline-danger">BRUH</button>
                                   </div>
                                 </div>
                               </div>
