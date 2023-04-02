@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="row">
             <div className="col-sm">
               <p className='p-author p-author-left'>Erik Hub</p>
-              <p className='p-author p-author-left'>Fort Collins, USA</p>
+              <p className='p-author p-author-left'></p>
             </div>
             <div className="col-sm text-center">
                 <a href="https://api.whatsapp.com/send?phone=17206804982&amp;text=Hi%20Erik" target="_blank" rel="noopener noreferrer"><Whatsapp className='icon' /></a>
