@@ -29,7 +29,7 @@ export class Certifications extends Component {
 
                           <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                              Data Talks Club Data Engineering <div class="btn-container text-center"><a href="" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="Waiting for Diploma" /></a></div>
+                              Data Talks Club Data Engineering <div class="btn-container text-center"><a href="../../../DTC-DE-2023.pdf" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma" /></a></div>
                             </button>
                           </h2>
                           <div id="flush-collapseOne" class="accordion-collapse collapse">
