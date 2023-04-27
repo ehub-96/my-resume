@@ -135,7 +135,7 @@ export class Certifications extends Component {
                           <div class="accordion-item">
                             <h2 class="accordion-header">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne2" aria-expanded="false" aria-controls="flush-collapseOne2">
-                                Nested Accordion Item #1
+                                Nested Accordion Item #1 <div class="btn-container text-center"><a href="" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="Waiting for Diploma" /></a></div>
                               </button>
                             </h2>
                             <div id="flush-collapseOne2" class="accordion-collapse collapse">
