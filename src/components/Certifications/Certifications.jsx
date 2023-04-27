@@ -18,9 +18,6 @@ export class Certifications extends Component {
                 <h2 class="accordion-header">
                   <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="false" aria-controls="panelsStayOpen-collapseOne">
                     Accordion Item #1
-                      <div class="spinner-border text-danger" role="status">
-                        <span class="visually-hidden">Loading...</span>
-                      </div>
                   </button>
                 </h2>
                 <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse">
@@ -39,13 +36,6 @@ export class Certifications extends Component {
                           <div id="flush-collapseOne" class="accordion-collapse collapse">
                             <div class="accordion-body">Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the first item's accordion body.</div>
                                 <div>
-                                <div class="d-flex justify-content-end">
-                                  <div class="btn-group" role="group" aria-label="Basic example">
-                                      <button type="button" class="btn btn-outline-danger">BENIS</button>
-                                      <button type="button" class="btn btn-outline-danger">GIGA CHAD</button>
-                                      <button type="button" class="btn btn-outline-danger">BRUH</button>
-                                  </div>
-                                </div>
                               </div>
                           </div>
                         </div>
