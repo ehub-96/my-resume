@@ -13,7 +13,7 @@ const Card = ({props}) => {
     'dtcdezoomcampcapstoneproject':{
       img: dtc
     },
-    'plotlydash':{
+    'googledataanalytics':{
       img: plotlydash
     },
     'powerbi':{
