@@ -22,35 +22,34 @@ export class Certifications extends Component {
                 </h2>
                 <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse">
                   <div class="accordion-body">
-                    <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-
+                    
                       <div class="accordion accordion-flush" id="accordionFlushExample">
                         <div class="accordion-item">
 
 
                           <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                              Nested Accordion Item #1
+                              Data Talks Club Data Engineering <div class="btn-container text-center"><a href="" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="Waiting for Diploma" /></a></div>
                             </button>
                           </h2>
                           <div id="flush-collapseOne" class="accordion-collapse collapse">
-                            <div class="accordion-body">Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the first item's accordion body.</div>
+                          <strong>2023 Cohort</strong> by Data Talks Club. An intensive 14-week training program that provided a comprehensive and immersive learning experience with both pre recorded classes and live tutoring with Alexey Grigorev and other instructors focusing on real-world projects and industry-relevant tools and techniques: 
+                                      <div className="col">
+                                      <p className="p-about">
+                                      <li>Docker and containerization</li>
+                                      <li>Workflow Orchestration</li>
+                                      <li>Data Warehousing and Cloud Services</li>
+                                      <li>Analyitics Engineering</li>
+                                      <li>Batch Processing</li>
+                                      <li>Streaming</li>
+                                      </p>
+                                      </div>
                                 <div>
                               </div>
                           </div>
                         </div>
 
 
-                        <div class="accordion-item">
-                          <h2 class="accordion-header">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                            Nested Accordion Item #2
-                            </button>
-                          </h2>
-                          <div id="flush-collapseTwo" class="accordion-collapse collapse">
-                            <div class="accordion-body">Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the second item's accordion body. Let's imagine this being filled with some actual content.</div>
-                          </div>
-                        </div>
 
 
                         <div class="accordion-item">
