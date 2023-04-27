@@ -142,39 +142,51 @@ export class Certifications extends Component {
                 </h2>
                 <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse">
                   <div class="accordion-body">
-                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-
+                    
                     <div class="accordion accordion-flush" id="accordionFlushExample2">
                           <div class="accordion-item">
                             <h2 class="accordion-header">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne2" aria-expanded="false" aria-controls="flush-collapseOne2">
-                                Nested Accordion Item #1 <div class="btn-container text-center"><a href="" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="Waiting for Diploma" /></a></div>
+                               Bachelor's <div class="btn-container text-center"><a href="../../../MKTN.pdf" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma" /></a></div>
+                  
                               </button>
                             </h2>
                             <div id="flush-collapseOne2" class="accordion-collapse collapse">
-                              <div class="accordion-body">Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the first item's accordion body.</div>
+                              <div class="accordion-body"><strong>Business Management and Marketing</strong> bachelors from the Córdoba National University. This bachelor's program offers comprehensive training in modern marketing, business strategy, and legal principles. The program places a strong emphasis on practical learning, with a focus on real-world scenarios and hands-on experience.</div>
+                              <div className="col">
+                                <p className="p-about">
+                                <li>Digital Marketing</li>
+                                <li>Social Media Management</li>
+                                <li>BI Tools</li>
+                                <li>Business Operations</li>
+                                </p>
+                                </div>
                             </div>
                           </div>
                           <div class="accordion-item">
                             <h2 class="accordion-header">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo2" aria-expanded="false" aria-controls="flush-collapseTwo2">
-                              Nested Accordion Item #2
+                              Python Bootcamp <div class="btn-container text-center"><a href="../../../Python.pdf" target="_blank" rel="noopener noreferrer"><MortarboardFill className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma" /></a></div>
                               </button>
                             </h2>
                             <div id="flush-collapseTwo2" class="accordion-collapse collapse">
-                              <div class="accordion-body">Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the second item's accordion body. Let's imagine this being filled with some actual content.</div>
+                              <div class="accordion-body"><strong> Python essentials.</strong> by Colt Steele in Udemy. This course explores everything from variables to data structures to object-oriented programming and modules, introducing to pandas, flask, scikitlearn and django:</div>
+                              <div className="col">
+                                <p className="p-about">
+                                <li>Variables</li>
+                                <li>Strings and string methods</li>
+                                <li>Booleans and boolean logic</li>
+                                <li>Loops</li>
+                                <li>Lists, Dictionaries and Tuples</li>
+                                <li>PIP</li>
+                                <li>Object Oriented Programming</li>
+                                <li>Classes</li>
+                                </p>
+                                </div>
                             </div>
                           </div>
-                          <div class="accordion-item">
-                            <h2 class="accordion-header">
-                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree2" aria-expanded="false" aria-controls="flush-collapseThree2">
-                              Nested Accordion Item #3
-                              </button>
-                            </h2>
-                            <div id="flush-collapseThree2" class="accordion-collapse collapse">
-                              <div class="accordion-body">Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the third item's accordion body. Nothing more exciting happening here in terms of content, but just filling up the space to make it look, at least at first glance, a bit more representative of how this would look in a real-world application.</div>
-                            </div>
-                          </div>
+
+                     
                         </div>
 
 
