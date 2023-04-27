@@ -1,5 +1,5 @@
 import React from 'react'
-import plotlydash from '../../assets/card-image/plotlydashlogo.png'
+import plotlydash from '../../assets/card-image/WEWWEWEWEEWW.png'
 import dtc from '../../assets/card-image/DTC.png'
 import powerbi from '../../assets/card-image/powerbi.png'
 import tableau from '../../assets/card-image/tableau.png'
@@ -13,7 +13,7 @@ const Card = ({props}) => {
     'dtcdezoomcampcapstoneproject':{
       img: dtc
     },
-    'plotlydash':{
+    'googledataanalytics':{
       img: plotlydash
     },
     'powerbi':{
