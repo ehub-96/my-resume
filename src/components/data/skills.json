@@ -2,7 +2,7 @@
 
     {
         "title": "Data Engineering",
-        "desc": "Recently completed an intensive data engineering course focused on workflow orchestration, data warehousing, and cloud services. Developed expertise in batch and streaming processing, analytics engineering, and data exploration, manipulation, and visualization. Proficient in industry-standard tools and platforms such as Apache Spark, AWS, and Google Cloud Platform. Excited to apply newly acquired skills to real-world data engineering challenges.",
+        "desc": "Recently completed an intensive data engineering course focused on workflow orchestration, data warehousing, and cloud services. Developed expertise in batch and streaming processing, analytics engineering, and data exploration, manipulation, and visualization. Proficient in industry-standard tools and platforms such as Apache Spark, AWS, and Google Cloud Platform. Excited to apply newly acquired skills to new and more complex challenges.",
         "data": ["Workflow","Modeling","Storage"],
         "active":true, "id":"DataEngineering"
     },
