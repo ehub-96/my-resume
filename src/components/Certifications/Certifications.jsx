@@ -71,7 +71,7 @@ export class Certifications extends Component {
                               </button>
                             </h2>
                             <div id="flush-collapseOne1" class="accordion-collapse collapse">
-                              <div class="accordion-body">Data Analytics <strong>By Google</strong>, a comprehensive 6 months program of 8 courses, with deep understanding of industry practices and key role skills. </div>
+                              <div class="accordion-body">Data Analytics Specialization <strong>By Google</strong>, a comprehensive 6 months program of 8 courses, with deep understanding of industry practices and key role skills. </div>
                               <div className="col">
                                       <p className="p-about">
                                       <li>The Role of Data</li>
