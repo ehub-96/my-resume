@@ -76,7 +76,7 @@ export class Certifications extends Component {
                                       <p className="p-about">
                                       <li>The Role of Data</li>
                                       <li>Data-Driven Decisions</li>
-                                      <li>Data Exploratio & Data Cleaning</li>
+                                      <li>Data Exploration & Data Cleaning</li>
                                       <li>Data Visualization</li>
                                       <li>Data & R</li>                                      
                                       </p>
