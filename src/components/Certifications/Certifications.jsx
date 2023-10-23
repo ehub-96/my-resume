@@ -66,6 +66,44 @@ export class Certifications extends Component {
                       <div class="accordion accordion-flush" id="accordionFlushExample1">
                           <div class="accordion-item">
                             <h2 class="accordion-header">
+
+                            </h2>
+                            <div id="flush-collapseTwo1" class="accordion-collapse collapse">
+                              <div class="accordion-body"><strong>Introduction to Data Science</strong> by CISCO. This modern and updated course teaches the fundamental of Data Analysis and Data Science, and how Machine Learning is shaping the world of data, covering:</div>
+                              <div className="col">
+                                <p className="p-about">
+                                <li>Data Collection</li>
+                                <li>Data Storage</li>
+                                <li>AI</li>
+                                <li>Machine Learning</li>
+                                </p>
+                                </div>
+                            </div>
+                          </div>
+                          <div class="accordion-item">
+                            <h2 class="accordion-header">
+                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree1" aria-expanded="false" aria-controls="flush-collapseThree1">
+                              MySQL <div class="btn-container text-center"><a href="../../../CISCODSIntro.pdf" target="_blank" rel="noopener noreferrer"><MortarboardFill className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma"/></a></div>
+                              </button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne1" aria-expanded="false" aria-controls="flush-collapseOne1">
                                 Google Data Analytics Certificate<div class="btn-container text-center"><a href="../../../GDA.pdf" target="_blank" rel="noopener noreferrer"><MortarboardFill className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma" /></a></div>
                               </button>
