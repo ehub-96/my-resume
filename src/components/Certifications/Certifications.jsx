@@ -68,20 +68,17 @@ export class Certifications extends Component {
                      <div class="accordion-item">
                             <h2 class="accordion-header">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne1" aria-expanded="false" aria-controls="flush-collapseOne1">
-                              Data Analysis & Visualization <div class="btn-container text-center"><a href="../../../DA.pdf" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma" /></a></div>
+                              Data Science <div class="btn-container text-center"><a href="../../../CISCODSIntro.pdf" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma" /></a></div>
                               </button>
                             </h2>
                             <div id="flush-collapseOne1" class="accordion-collapse collapse">
-                              <div class="accordion-body"><strong>2022 Python Data Analysis & Visualization Masterclass</strong> by Colt Steele in Udemy. This course provides an in-depth understanding of the Pandas, Matplotlib, and Seaborn libraries, as well as other essential tools for data analysis using a wide range of real-world datasets to ensure hands-on experience, covering:</div>
+                              <div class="accordion-body"><strong>Introduction to Data Science</strong> by CISCO. This modern course talks about the principles of Data Science, Data Analytics and how Machine Learning, with AI is shaping the future of Data, covering:</div>
                               <div className="col">
                                 <p className="p-about">
-                                <li>Read and manipulate Datasets</li>
-                                <li>DataFrames and Series objects</li>
-                                <li>Organize, filter, clean, aggregate, and analyze DataFrames</li>
-                                <li>Extract and manipulate date, time, and textual information from data</li>
-                                <li>Hierarchical Indexing</li>
-                                <li>Merge Datasets</li>
-                                <li>Create complex visualizations</li>
+                                <li>Data Collection</li>
+                                <li>Data Storage</li>
+                                <li>Machine Learning</li>
+                                <li>AI</li>
                                 </p>
                                 </div>
                             </div>
