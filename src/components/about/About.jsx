@@ -32,10 +32,10 @@ const About = () => {
 
         <div className="col">
             <p className="p-about">
-              Hello World!! I'm Erik, junior Data Professional, with a solid marketing background.
+              Hello World!! I'm Erik, Data Engineer.
               <br></br>
-              As logistics & SCM turned into marketing (Business Management and Marketing) from the Córdoba National University. I'm freelancing for a variety of local small businesses.
-              <br></br> Now, I'm working towards a full-time career in the Data field.
+              During the past years I've had opportunity to work closely with small businesses and family-owned shops and stores around the United States, supporting their digital transformation. Through data analysis and logistics optimization, I've helped these businesses achieve efficiency, reduce costs, improve their bottom line and greater goals, I've also been able to develop effective campaigns that drive business growth and customer engagement. Create the environment for data-driven decision-making and implementing effective solutions is always the objective.
+              <br></br> Now, Freelancing from Argentina.
             </p>
         </div>
     </div>
