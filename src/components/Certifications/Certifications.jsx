@@ -32,6 +32,8 @@ export class Certifications extends Component {
                               Data Talks Club Data Engineering <div class="btn-container text-center"><a href="../../../DTC-DE-2023.pdf" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma" /></a></div>
                             </button>
                           </h2>
+
+
                           <div id="flush-collapseOne" class="accordion-collapse collapse">
                           <strong>2023 Cohort</strong> by Data Talks Club. An intensive 14-week training program that provided a comprehensive and immersive learning experience with both pre recorded classes and live tutoring with Alexey Grigorev and other instructors focusing on real-world projects and industry-relevant tools and techniques: 
                                       <div className="col">
@@ -60,6 +62,8 @@ export class Certifications extends Component {
                     Data Science & Analytics
                   </button>
                 </h2>
+
+                
                 <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
                   <div class="accordion-body">
                      <div class="accordion accordion-flush" id="accordionFlushExample1">
