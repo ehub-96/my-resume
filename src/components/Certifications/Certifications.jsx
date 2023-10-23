@@ -72,7 +72,7 @@ export class Certifications extends Component {
                               </button>
                             </h2>
                             <div id="flush-collapseOne1" class="accordion-collapse collapse">
-                              <div class="accordion-body">Data Analytics <strong>By Google</strong>by CISCO, this is an up-to-date comprehensive course that covers:</div>
+                              <div class="accordion-body">Data Analytics <strong>By CISCO</strong>, this is an up-to-date comprehensive course that covers:</div>
                               <div className="col">
                                       <p className="p-about">
                                       <li>Data Gathering and Investigation</li>
@@ -96,7 +96,7 @@ export class Certifications extends Component {
                               </button>
                             </h2>
                             <div id="flush-collapseTwo1" class="accordion-collapse collapse">
-                              <div class="accordion-body"><strong>Introduction to Data Science</strong> by CISCO. This modern course talks about the principles of Data Science, Data Analytics and how Machine Learning, with AI is shaping the future of Data, covering:</div>
+                              <div class="accordion-body">Introduction to Data Science<strong>by CISCO.</strong>This modern course talks about the principles of Data Science, Data Analytics and how Machine Learning, with AI is shaping the future of Data, covering:</div>
                               <div className="col">
                                 <p className="p-about">
                                 <li>Data Collection</li>
