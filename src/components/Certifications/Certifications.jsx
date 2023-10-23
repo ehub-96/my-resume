@@ -57,7 +57,7 @@ export class Certifications extends Component {
               <div class="accordion-item">
                 <h2 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-                    Data Analysis
+                    Data Science & Analytics
                   </button>
                 </h2>
                 <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
@@ -68,10 +68,34 @@ export class Certifications extends Component {
                      <div class="accordion-item">
                             <h2 class="accordion-header">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne1" aria-expanded="false" aria-controls="flush-collapseOne1">
-                              Data Science <div class="btn-container text-center"><a href="../../../CISCODSIntro.pdf" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma" /></a></div>
+                                Data Analytics Essentials<div class="btn-container text-center"><a href="../../../CISCODAEssentials.pdf" target="_blank" rel="noopener noreferrer"><MortarboardFill className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma" /></a></div>
                               </button>
                             </h2>
                             <div id="flush-collapseOne1" class="accordion-collapse collapse">
+                              <div class="accordion-body">Data Analytics <strong>By Google</strong>by CISCO, this is an up-to-date comprehensive course that covers:</div>
+                              <div className="col">
+                                      <p className="p-about">
+                                      <li>Data Gathering and Investigation</li>
+                                      <li>Data Preparing and Cleaning</li>
+                                      <li>Data Transformation</li>
+                                      <li>Data Analysis</li>
+                                      <li>Relational Databases & SQL</li>
+                                      <li>Tableau</li> 
+                                      <li>Ethics and Bias in Data</li>                                       
+                                      </p>
+                                      </div>
+                            </div>
+                          </div>
+
+
+
+                     <div class="accordion-item">
+                            <h2 class="accordion-header">
+                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo1" aria-expanded="false" aria-controls="flush-collapseTwo1">
+                              Data Science <div class="btn-container text-center"><a href="../../../CISCODSIntro.pdf" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma" /></a></div>
+                              </button>
+                            </h2>
+                            <div id="flush-collapseTwo1" class="accordion-collapse collapse">
                               <div class="accordion-body"><strong>Introduction to Data Science</strong> by CISCO. This modern course talks about the principles of Data Science, Data Analytics and how Machine Learning, with AI is shaping the future of Data, covering:</div>
                               <div className="col">
                                 <p className="p-about">
@@ -86,17 +110,13 @@ export class Certifications extends Component {
 
 
 
-
-
-
-
                           <div class="accordion-item">
                             <h2 class="accordion-header">
-                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo1" aria-expanded="false" aria-controls="flush-collapseTwo1">
+                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree1" aria-expanded="false" aria-controls="flush-collapseThree1">
                                 Google Data Analytics Certificate<div class="btn-container text-center"><a href="../../../GDA.pdf" target="_blank" rel="noopener noreferrer"><MortarboardFill className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma" /></a></div>
                               </button>
                             </h2>
-                            <div id="flush-collapseTwo1" class="accordion-collapse collapse">
+                            <div id="flush-collapseThree1" class="accordion-collapse collapse">
                               <div class="accordion-body">Data Analytics Specialization <strong>By Google</strong>, a comprehensive 6 months program of 8 courses, with deep understanding of industry practices and key role skills. </div>
                               <div className="col">
                                       <p className="p-about">
@@ -111,14 +131,13 @@ export class Certifications extends Component {
                           </div>
 
 
-
                           <div class="accordion-item">
                             <h2 class="accordion-header">
-                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree1" aria-expanded="false" aria-controls="flush-collapseThree1">
+                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour1" aria-expanded="false" aria-controls="flush-collapseFour1">
                               Data Analysis & Visualization <div class="btn-container text-center"><a href="../../../DA.pdf" target="_blank" rel="noopener noreferrer"><Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma" /></a></div>
                               </button>
                             </h2>
-                            <div id="flush-collapseThree1" class="accordion-collapse collapse">
+                            <div id="flush-collapseFour1" class="accordion-collapse collapse">
                               <div class="accordion-body"><strong>2022 Python Data Analysis & Visualization Masterclass</strong> by Colt Steele in Udemy. This course provides an in-depth understanding of the Pandas, Matplotlib, and Seaborn libraries, as well as other essential tools for data analysis using a wide range of real-world datasets to ensure hands-on experience, covering:</div>
                               <div className="col">
                                 <p className="p-about">
@@ -137,11 +156,11 @@ export class Certifications extends Component {
                           
                           <div class="accordion-item">
                             <h2 class="accordion-header">
-                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour1" aria-expanded="false" aria-controls="flush-collapseFour1">
+                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive1" aria-expanded="false" aria-controls="flush-collapseFive1">
                               MySQL <div class="btn-container text-center"><a href="../../../MySQL.pdf" target="_blank" rel="noopener noreferrer"><MortarboardFill className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma"/></a></div>
                               </button>
                             </h2>
-                            <div id="flush-collapseFour1" class="accordion-collapse collapse">
+                            <div id="flush-collapseFive1" class="accordion-collapse collapse">
                               <div class="accordion-body"><strong>The Ultimate MySQL Bootcamp</strong> by Colt Steele in Udemy. This course is a comprehensive introduction to databases and SQL syntax and complex queries.</div>
                               <div className="col">
                                 <p className="p-about">
