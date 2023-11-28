@@ -35,7 +35,7 @@ const About = () => {
               Hello World!! I'm Erik, Data Engineer.
               <br></br>
               During the past years I've had opportunity to work closely with small businesses and family-owned shops and stores around the United States, supporting their digital transformation. Through data analysis and logistics optimization, I've helped these businesses achieve efficiency, reduce costs, improve their bottom line and greater goals, I've also been able to develop effective campaigns that drive business growth and customer engagement. Create the environment for data-driven decision-making and implementing effective solutions is always the objective.
-              <br></br> Now, Freelancing from Argentina.
+              <br></br>
             </p>
         </div>
     </div>
