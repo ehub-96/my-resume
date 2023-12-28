@@ -18,10 +18,37 @@ export class Certifications extends Component {
                   AML & Compliance
                 </button>
               </h2>
-              <div id="webDevelopment" class="accordion-collapse collapse">
+              <div id="panelsStayOpen-collapseZero" class="accordion-collapse collapse">
                 <div class="accordion-body">
-                  {/* Your content for Web Development goes here */}
-                  <p>This is a new section for Web Development certifications.</p>
+                  <div class="accordion accordion-flush" id="accordionFlushExample">
+                    <div class="accordion-item">
+                      <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseZero" aria-expanded="false" aria-controls="flush-collapseZero">
+                        Prevention of Money Laundering and Terrorism Financing 
+                          <div class="btn-container text-center">
+                            <a href="../../../AML.pdf" target="_blank" rel="noopener noreferrer">
+                              <MortarboardFill className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma" />
+                            </a>
+                          </div>
+                        </button>
+                      </h2>
+                      <div id="flush-collapseOne" class="accordion-collapse collapse">
+                        <strong>SUNKY!</strong> SUNKY LORE!:
+                        <div className="col">
+                          <p className="p-about">
+                            <li>SUNKY</li>
+                            <li>SUNKY</li>
+                            <li>SUNKY</li>
+                            <li>SUNKY</li>
+                            <li>SUNKY</li>
+                            <li>SUNKY</li>
+                          </p>
+                        </div>
+                        <div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
