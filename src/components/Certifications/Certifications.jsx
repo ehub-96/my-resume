@@ -9,6 +9,25 @@ export class Certifications extends Component {
         <h1 className='s-title'>Certifications</h1>
         <div className="row">
           <div class="accordion" id="accordionPanelsStayOpenExample">
+
+
+
+          <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseZero" aria-expanded="false" aria-controls="panelsStayOpen-collapseZero">
+                  Web Development
+                </button>
+              </h2>
+              <div id="panelsStayOpen-collapseZero" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                  {/* Your content for Web Development goes here */}
+                  <p>This is a new section for Web Development certifications.</p>
+                </div>
+              </div>
+            </div>
+
+
+
             <div class="accordion-item">
               <h2 class="accordion-header">
                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="false" aria-controls="panelsStayOpen-collapseOne">
