@@ -10,8 +10,6 @@ export class Certifications extends Component {
         <div className="row">
           <div class="accordion" id="accordionPanelsStayOpenExample">
 
-
-
           <div class="accordion-item">
               <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseZero" aria-expanded="false" aria-controls="flush-collapseZero">
@@ -33,15 +31,15 @@ export class Certifications extends Component {
                         </button>
                       </h2>
                       <div id="flush-collapseZero" class="accordion-collapse collapse">
-                        <strong>SUNKY!</strong> SUNKY LORE!:
+                        <strong>Diploma Program </strong> From the Universidad Tecnológica Nacional, that provided a comprehensive understanding of AML principles and compliance frameworks both at a national and international scale:
                         <div className="col">
                           <p className="p-about">
-                            <li>SUNKY</li>
-                            <li>SUNKY</li>
-                            <li>SUNKY</li>
-                            <li>SUNKY</li>
-                            <li>SUNKY</li>
-                            <li>SUNKY</li>
+                            <li>Regulatory Compliance</li>
+                            <li>Risk Analysis</li>
+                            <li>Compliance Management</li>
+                            <li>Risk Management</li>
+                            <li>KYC</li>
+                            <li>Customer Due Diligence</li>
                           </p>
                         </div>
                         <div>
@@ -52,8 +50,6 @@ export class Certifications extends Component {
                 </div>
               </div>
             </div>
-
-
 
             <div class="accordion-item">
               <h2 class="accordion-header">
