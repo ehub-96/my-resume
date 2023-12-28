@@ -7,7 +7,7 @@ const Footer = () => {
         <h1 className='s-title'>Contact</h1>
         <div className="row">
             <div className="col-sm">
-              <p className='p-author p-author-left'>Erik Hub</p>
+              <p className='p-author p-author-left'></p>
               <p className='p-author p-author-left'></p>
             </div>
             <div className="col-sm text-center">

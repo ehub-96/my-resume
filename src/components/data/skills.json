@@ -31,7 +31,7 @@
         "active":false, "id": "Consultant"
     },
     {
-        "title": "Freelance Developer",
+        "title": "Developer",
         "desc": "SUNKY LORE.",
         "data": ["SUNKY","SUNKY","SUNKY"],
         "active":false, "id": "Developer"
