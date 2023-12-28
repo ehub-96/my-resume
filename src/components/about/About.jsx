@@ -8,7 +8,7 @@ const About = () => {
         <div className="col-sm-6">
             <div className="main-title">
                 <img src={Ehub}/>
-                <h2 className='title'>Erik Hub - Data Engineer</h2>
+                <h2 className='title'>Data Analyst - Compliance Specialist</h2>
                 <div class="btn-container text-center">
 
                   <div class="row">
@@ -17,7 +17,7 @@ const About = () => {
 
                     </div>
                     <div class="col-md-6">
-                      <a class="btn btn-vd bg-danger" href="../../../ErikHubResumeATS.pdf" download="ErikHubResumeATS.pdf" target="_blank" data-bs-toggle="tooltip" data-bs-placement="top" title="Machine-Friendly Resume">ATS Resume</a>
+                      <a class="btn btn-vd bg-danger" href="../../../ErikHubResumeATS.pdf" download="ErikHubResumeATS.pdf" target="_blank" data-bs-toggle="tooltip" data-bs-placement="top" title="Machine & Printing Friendly Resume">ATS Resume</a>
 
 
                     </div>
@@ -32,9 +32,9 @@ const About = () => {
 
         <div className="col">
             <p className="p-about">
-              Hello World!! I'm Erik, Data Engineer.
+              Hello World!! I'm Erik, a highly motivated professional in southern Sweden!.
               <br></br>
-              During the past years I've had opportunity to work closely with small businesses and family-owned shops and stores around the United States, supporting their digital transformation. Through data analysis and logistics optimization, I've helped these businesses achieve efficiency, reduce costs, improve their bottom line and greater goals, I've also been able to develop effective campaigns that drive business growth and customer engagement. Create the environment for data-driven decision-making and implementing effective solutions is always the objective.
+              With background is in Business Management & Marketing, and Data Analysis, I've had the opportunity to work closely with small businesses and family-owned shops and stores around the United States, and Argentina, supporting their digital transformation. Through data analysis and logistics optimization, I've helped these businesses achieve efficiency, reduce costs, improve their bottom line and greater goals, I've also been able to develop effective campaigns that drive business growth and customer engagement. Create the environment for data-driven decision-making and implementing effective solutions is always the objective. My expertise includes Big Data Analytics, Data Pipelines, Backend development, Data Governance, and end-to-end pipeline development. I'm comfortable with Database Management and am dedicated to providing practical solutions that optimize data processes and systems.
               <br></br>
             </p>
         </div>
