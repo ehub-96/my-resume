@@ -45,9 +45,9 @@ function App() {
           <Certifications/>
         </div>
 
-        <div className="component-container" id="Mentorships">
+        {/* <div className="component-container" id="Mentorships">
           <Mentorships/>
-        </div>
+        </div> */}
 
       </div>
 
