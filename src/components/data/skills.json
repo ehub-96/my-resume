@@ -1,16 +1,34 @@
 [
 
     {
-        "title": "Data Engineering",
-        "desc": "Recently completed an intensive data engineering course focused on workflow orchestration, data warehousing, and cloud services. Developed expertise in batch and streaming processing, analytics engineering, and data exploration, manipulation, and visualization. Proficient in industry-standard tools and platforms such as Apache Spark, AWS, and Google Cloud Platform. Excited to apply newly acquired skills to new and more complex challenges.",
-        "data": ["Workflow","Modeling","Storage"],
-        "active":true, "id":"DataEngineering"
+        "title": "Compliance",
+        "desc": "Eager to apply new knowledge from a recently completed a Diploma Program From the Universidad Tecnológica Nacional, that provided a comprehensive understanding of AML principles and compliance frameworks.",
+        "data": ["Risk Assessment","Risk Management","Regulatory Compliance","Compliance Management","KYC","Customer Due Diligence","AML Protocols"],
+        "active":true, "id":"Compliance"
     },
     {
-        "title": "Data Analysis - BI ",
-        "desc": "Recently completed the Google Data Analytics course in Coursera. Experienced in data analysis with a focus on supporting small businesses and family-owned shops. Utilized data analysis techniques to provide actionable insights and drive growth for clients. Worked as a freelance consultant, leveraging expertise in data visualization and statistical analysis to optimize operations and drive revenue growth.",
-        "data": ["Data Visualization","Database Design & Management", "Marketing","Digitalization","Social Media"],
-        "active":false, "id": "DataAnalysis-BI"
+        "title": "Data Analysis",
+        "desc": "Focus on providing actionable insights that drive growth for clients. Through expertise in data visualization and statistical analysis.",
+        "data": ["Data Visualization","Optimization","Big Data Analytics","Report Making"],
+        "active":false, "id": "DataAnalysis"
+    },
+    {
+        "title": "Data Engineering",
+        "desc": "Data architectures and end-to-end pipeline solutions. With a focus on practical solutions, I optimize data processes and systems to ensure seamless operations.",
+        "data": ["Data Governance","Pipelines","Data Maintenance","Architecture","Workflow","Warehousing" ],
+        "active":false, "id": "DataEngi"
+    },
+    {
+        "title": "Consultant & Business intelligence",
+        "desc": "Focus on supporting small businesses and family-owned shops. Utilized data analysis techniques to provide actionable insights and drive growth for clients. help businesses achieve efficiency, reduce costs, and improve their bottom line.",
+        "data": ["Performance Dashboards","Data Driven Decision Making","Business Growth","Customer Engagement","Modernization","Logistics Optimization"],
+        "active":false, "id": "Consultant"
+    },
+    {
+        "title": "Developer",
+        "desc": "Python, SQL and JS.",
+        "data": ["API's","Dashboards","Frontend","Backend","Databases","Controlling Software"],
+        "active":false, "id": "Developer"
     }
 
 ]

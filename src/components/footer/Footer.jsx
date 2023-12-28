@@ -7,7 +7,7 @@ const Footer = () => {
         <h1 className='s-title'>Contact</h1>
         <div className="row">
             <div className="col-sm">
-              <p className='p-author p-author-left'>Erik Hub</p>
+              <p className='p-author p-author-left'></p>
               <p className='p-author p-author-left'></p>
             </div>
             <div className="col-sm text-center">
@@ -21,12 +21,11 @@ const Footer = () => {
                 
                 <a href="https://www.linkedin.com/in/ehub/" target="_blank" rel="noopener noreferrer"><Linkedin className='icon' /></a>
 
-                <a href="https://twitter.com/ehub96" target="_blank" rel="noopener noreferrer"><Twitter className='icon' /></a>
+                {/* <a href="https://twitter.com/ehub96" target="_blank" rel="noopener noreferrer"><Twitter className='icon' /></a> */}
                 
             </div>
             <div className="col-sm">
-              <p className='p-author p-author-rigth'>Desing by Angel Magaquian</p>
-              <p className='p-author p-author-rigth'>& Erik Hub</p>
+              <p className='p-author p-author-rigth'></p>
             </div>
         </div>
     </div>
