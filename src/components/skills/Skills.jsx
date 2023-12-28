@@ -5,7 +5,7 @@ import Content from './content'
 const Skills = () => {
   return (
     <div>
-        <h1 className='s-title'>Skills</h1>
+        <h1 className='s-title'>Skills, Expertise & Stack</h1>
         <ul className="nav nav-pills mb-3" id="pills-tab" role="tablist">
             {
                 Skills_data.map(e=>{

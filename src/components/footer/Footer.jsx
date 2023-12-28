@@ -25,7 +25,7 @@ const Footer = () => {
                 
             </div>
             <div className="col-sm">
-              <p className='p-author p-author-rigth'>Powered by EHub</p>
+              <p className='p-author p-author-rigth'>Powered by EHUB</p>
             </div>
         </div>
     </div>
