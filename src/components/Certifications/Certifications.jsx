@@ -59,56 +59,7 @@ export class Certifications extends Component {
               <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
                 <div class="accordion-body">
                   <div class="accordion accordion-flush" id="accordionFlushExample1">
-                                        <div class="accordion-item">
-                      <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne1" aria-expanded="false" aria-controls="flush-collapseOne1">
-                          Data Analytics Essentials
-                          <div class="btn-container text-center">
-                            <a href="../../../CISCODAEssentials.pdf" target="_blank" rel="noopener noreferrer">
-                              <MortarboardFill className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma" />
-                            </a>
-                          </div>
-                        </button>
-                      </h2>
-                      <div id="flush-collapseOne1" class="accordion-collapse collapse">
-                        <div class="accordion-body">Data Analytics <strong>By CISCO</strong>, this is an up-to-date comprehensive course that covers:</div>
-                        <div className="col">
-                          <p className="p-about">
-                            <li>Data Gathering and Investigation</li>
-                            <li>Data Preparing and Cleaning</li>
-                            <li>Data Transformation</li>
-                            <li>Data Analysis</li>
-                            <li>Relational Databases & SQL</li>
-                            <li>Tableau</li>
-                            <li>Ethics and Bias in Data</li>
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div class="accordion-item">
-                      <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo1" aria-expanded="false" aria-controls="flush-collapseTwo1">
-                          Data Science 
-                          <div class="btn-container text-center">
-                            <a href="../../../CISCODSIntro.pdf" target="_blank" rel="noopener noreferrer">
-                              <Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma" />
-                            </a>
-                          </div>
-                        </button>
-                      </h2>
-                      <div id="flush-collapseTwo1" class="accordion-collapse collapse">
-                        <div class="accordion-body">Introduction to Data Science<strong> by CISCO.</strong>This modern course talks about the principles of Data Science, Data Analytics and how Machine Learning, with AI is shaping the future of Data, covering:</div>
-                        <div className="col">
-                          <p className="p-about">
-                            <li>Data Collection</li>
-                            <li>Data Storage</li>
-                            <li>Machine Learning</li>
-                            <li>AI</li>
-                          </p>
-                        </div>
-                      </div>
-                    </div>
+                    
                     <div class="accordion-item">
                       <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne1" aria-expanded="false" aria-controls="flush-collapseOne1">
