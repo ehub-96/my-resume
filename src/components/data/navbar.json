@@ -30,15 +30,11 @@
         "id":"Certifications-sidebar"
     },
     {
-        "title":"Mentorships",
-        "link":"#Mentorships",
-        "default":"",
-        "id":"Mentorships-sidebar"
-    },
-    {
         "title":"Contact",
         "link":"#contact",
         "default":"",
         "id":"contact-sidebar"
     }
 ]
+
+
