@@ -20,7 +20,7 @@ export class Certifications extends Component {
               </h2>
               <div id="panelsStayOpen-collapseZero" class="accordion-collapse collapse">
                 <div class="accordion-body">
-                  <div class="accordion accordion-flush" id="accordionFlushExample">
+                  <div class="accordion accordion-flush" id="accordionFlushExampleZero">
                     <div class="accordion-item">
                       <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseZero" aria-expanded="false" aria-controls="flush-collapseZero">
@@ -32,7 +32,7 @@ export class Certifications extends Component {
                           </div>
                         </button>
                       </h2>
-                      <div id="flush-collapseOne" class="accordion-collapse collapse">
+                      <div id="flush-collapseZero" class="accordion-collapse collapse">
                         <strong>SUNKY!</strong> SUNKY LORE!:
                         <div className="col">
                           <p className="p-about">
