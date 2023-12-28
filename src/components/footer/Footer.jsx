@@ -21,7 +21,7 @@ const Footer = () => {
                 
                 <a href="https://www.linkedin.com/in/ehub/" target="_blank" rel="noopener noreferrer"><Linkedin className='icon' /></a>
 
-                <a href="https://twitter.com/ehub96" target="_blank" rel="noopener noreferrer"><Twitter className='icon' /></a>
+                {/* <a href="https://twitter.com/ehub96" target="_blank" rel="noopener noreferrer"><Twitter className='icon' /></a> */}
                 
             </div>
             <div className="col-sm">

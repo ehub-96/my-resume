@@ -1,17 +1,48 @@
 [
 
     {
-        "title": "Data Engineering",
-        "desc": "Recently completed an intensive data engineering course focused on workflow orchestration, data warehousing, and cloud services. Developed expertise in batch and streaming processing, analytics engineering, and data exploration, manipulation, and visualization. Proficient in industry-standard tools and platforms such as Apache Spark, AWS, and Google Cloud Platform. Excited to apply newly acquired skills to new and more complex challenges.",
-        "data": ["Workflow","Modeling","Storage"],
-        "active":true, "id":"DataEngineering"
+        "title": "Compliance",
+        "desc": "SUNKY LORE.",
+        "data": ["SUNKY","SUNKY","SUNKY"],
+        "active":true, "id":"Compliance"
     },
     {
-        "title": "Data Analysis - BI ",
-        "desc": "Recently completed the Google Data Analytics course in Coursera. Experienced in data analysis with a focus on supporting small businesses and family-owned shops. Utilized data analysis techniques to provide actionable insights and drive growth for clients. Worked as a freelance consultant, leveraging expertise in data visualization and statistical analysis to optimize operations and drive revenue growth.",
-        "data": ["Data Visualization","Database Design & Management", "Marketing","Digitalization","Social Media"],
-        "active":false, "id": "DataAnalysis-BI"
+        "title": "Data Analysis",
+        "desc": "SUNKY LORE.",
+        "data": ["SUNKY","SUNKY","SUNKY"],
+        "active":false, "id": "DataAnalysis"
+    },
+    {
+        "title": "Business Intelligence",
+        "desc": "SUNKY LORE.",
+        "data": ["SUNKY","SUNKY","SUNKY"],
+        "active":false, "id": "BizIntelligence"
+    },
+    {
+        "title": "Data Engineering",
+        "desc": "SUNKY LORE.",
+        "data": ["SUNKY","SUNKY","SUNKY"],
+        "active":false, "id": "DataEngi"
+    },
+    {
+        "title": "Consultant",
+        "desc": "SUNKY LORE.",
+        "data": ["SUNKY","SUNKY","SUNKY"],
+        "active":false, "id": "Consultant"
+    },
+    {
+        "title": "Freelance Developer",
+        "desc": "SUNKY LORE.",
+        "data": ["SUNKY","SUNKY","SUNKY"],
+        "active":false, "id": "Developer"
+    },
+    {
+        "title": "Main Stack",
+        "desc": "SUNKY LORE.",
+        "data": ["SUNKY","SUNKY","SUNKY"],
+        "active":false, "id": "Stack"
     }
+
 
 ]
 
