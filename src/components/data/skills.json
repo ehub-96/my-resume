@@ -20,20 +20,20 @@
     },
     {
         "title": "Data Engineering",
-        "desc": "SUNKY LORE.",
-        "data": ["SUNKY","SUNKY","SUNKY"],
+        "desc": "Data architectures and end-to-end pipeline solutions. With a focus on practical solutions, I optimize data processes and systems to ensure seamless operations.",
+        "data": ["Data Governance","Pipelines","Data Maintenance","Architecture","Workflow","Warehousing" ],
         "active":false, "id": "DataEngi"
     },
     {
         "title": "Consultant",
-        "desc": "SUNKY LORE.",
-        "data": ["SUNKY","SUNKY","SUNKY"],
+        "desc": "Focus on supporting small businesses and family-owned shops. Utilized data analysis techniques to provide actionable insights and drive growth for clients.",
+        "data": ["Performance Dashboards","Data Driven Decision Making","Business Growth","Customer Engagement","Modernization"],
         "active":false, "id": "Consultant"
     },
     {
         "title": "Developer",
-        "desc": "SUNKY LORE.",
-        "data": ["SUNKY","SUNKY","SUNKY"],
+        "desc": "Python, SQL and JS.",
+        "data": ["API's","Dashboards","Frontend","Backend","Databases","Controlling Software"],
         "active":false, "id": "Developer"
     },
     {
