@@ -24,16 +24,17 @@ const About = () => {
                 </a>
               </div>
               <div className="col-md-4">
-                {/* Your new button goes here */}
+                
                 <a
                   className="btn btn-vd bg-primary"
-                  href="/your-new-link"
+                  href="../../../Profile.pdf"
+                  download="Profile.pdf"
                   target="_blank"
                   data-bs-toggle="tooltip"
                   data-bs-placement="top"
-                  title="Your New Button Tooltip"
+                  title="CV from Linkedin"
                 >
-                  Your New Button
+                  Linkedin CV
                 </a>
               </div>
               <div className="col-md-4">
