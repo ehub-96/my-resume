@@ -59,7 +59,7 @@ export class Certifications extends Component {
               <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
                 <div class="accordion-body">
                   <div class="accordion accordion-flush" id="accordionFlushExample1">
-                  <div class="accordion-item">
+                                        <div class="accordion-item">
                       <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne1" aria-expanded="false" aria-controls="flush-collapseOne1">
                           Data Analytics Essentials
