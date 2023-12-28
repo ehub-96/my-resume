@@ -8,7 +8,7 @@
     },
     {
         "title": "Data Analysis",
-        "desc": "Focus on providing actionable insights that drive growth for clients. Through expertise in data visualization and statistical analysis.",
+        "desc": "Focus on providing actionable insights that drive growth for clients. Through expertise in data visualization, statistical analysis and cloud based technologies.",
         "data": ["Data Visualization","Optimization","Big Data Analytics","Report Making"],
         "active":false, "id": "DataAnalysis"
     },
