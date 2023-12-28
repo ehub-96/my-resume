@@ -29,14 +29,7 @@
         "desc": "Python, SQL and JS.",
         "data": ["API's","Dashboards","Frontend","Backend","Databases","Controlling Software"],
         "active":false, "id": "Developer"
-    },
-    {
-        "title": "Main Stack",
-        "desc": "SUNKY LORE.",
-        "data": ["SUNKY","SUNKY","SUNKY"],
-        "active":false, "id": "Stack"
     }
-
 
 ]
 
