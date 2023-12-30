@@ -239,7 +239,7 @@ export class Certifications extends Component {
             <div class="accordion-item">
               <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-                  Bachelors & Others
+                Associate's & Others
                 </button>
               </h2>
               <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse">
@@ -248,7 +248,7 @@ export class Certifications extends Component {
                     <div class="accordion-item">
                       <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne2" aria-expanded="false" aria-controls="flush-collapseOne2">
-                          Bachelor's 
+                         Associate's
                           <div class="btn-container text-center">
                             <a href="../../../MKTN.pdf" target="_blank" rel="noopener noreferrer">
                               <Mortarboard className='card-icon2' data-bs-toggle="tooltip" data-bs-placement="top" title="See Diploma" />
@@ -257,7 +257,7 @@ export class Certifications extends Component {
                         </button>
                       </h2>
                       <div id="flush-collapseOne2" class="accordion-collapse collapse">
-                        <div class="accordion-body"><strong>Business Management and Marketing</strong> bachelors from the Córdoba National University. This bachelor's program offers comprehensive training in modern marketing, business strategy, and legal principles. The program places a strong emphasis on practical learning, with a focus on real-world scenarios and hands-on experience.</div>
+                        <div class="accordion-body"><strong>Business Management and Marketing</strong> Associate's from the Córdoba National University. This program offers comprehensive training in modern marketing, business strategy, and legal principles. The program places a strong emphasis on practical learning, with a focus on real-world scenarios and hands-on experience.</div>
                         <div className="col">
                           <p className="p-about">
                             <li>Digital Marketing</li>
