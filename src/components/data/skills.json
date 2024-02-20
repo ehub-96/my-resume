@@ -1,28 +1,28 @@
 [
 
     {
-        "title": "Compliance",
-        "desc": "Eager to apply new knowledge from a recently completed a Diploma Program From the Universidad Tecnológica Nacional, that provided a comprehensive understanding of AML principles and compliance frameworks.",
-        "data": ["Risk Assessment","Risk Management","Regulatory Compliance","Compliance Management","KYC","Customer Due Diligence","AML Protocols"],
-        "active":true, "id":"Compliance"
-    },
-    {
         "title": "Data Analysis",
         "desc": "Focus on providing actionable insights that drive growth for clients. Through expertise in data visualization, statistical analysis and cloud based technologies.",
         "data": ["Data Visualization","Optimization","Big Data Analytics","Report Making"],
         "active":false, "id": "DataAnalysis"
     },
     {
-        "title": "Data Engineering",
-        "desc": "Data architectures and end-to-end pipeline solutions. With a focus on practical solutions, I optimize data processes and systems to ensure seamless operations.",
-        "data": ["Data Governance","Pipelines","Data Maintenance","Architecture","Workflow","Warehousing" ],
-        "active":false, "id": "DataEngi"
-    },
-    {
         "title": "Consultant & Business intelligence",
         "desc": "Focus on supporting small businesses and family-owned shops. Utilized data analysis techniques to provide actionable insights and drive growth for clients. help businesses achieve efficiency, reduce costs, and improve their bottom line.",
         "data": ["Performance Dashboards","Data Driven Decision Making","Business Growth","Customer Engagement","Modernization","Logistics Optimization"],
         "active":false, "id": "Consultant"
+    },
+    {
+        "title": "Compliance",
+        "desc": "Eager to apply new knowledge from a recently completed a Diploma Program From the Universidad Tecnológica Nacional, that provided a comprehensive understanding of AML principles and compliance frameworks.",
+        "data": ["Risk Assessment","Risk Management","Regulatory Compliance","Compliance Management","KYC","Customer Due Diligence","AML Protocols"],
+        "active":true, "id":"Compliance"
+    },
+    {
+        "title": "Data Engineering",
+        "desc": "Data architectures and end-to-end pipeline solutions. With a focus on practical solutions, I optimize data processes and systems to ensure seamless operations.",
+        "data": ["Data Governance","Pipelines","Data Maintenance","Architecture","Workflow","Warehousing" ],
+        "active":false, "id": "DataEngi"
     },
     {
         "title": "Developer",
