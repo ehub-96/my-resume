@@ -4,7 +4,7 @@
         "title": "Data Analysis",
         "desc": "Focus on providing actionable insights that drive growth for clients. Through expertise in data visualization, statistical analysis and cloud based technologies.",
         "data": ["Data Visualization","Optimization","Big Data Analytics","Report Making"],
-        "active":false, "id": "DataAnalysis"
+        "active":true, "id": "DataAnalysis"
     },
     {
         "title": "Consultant & Business intelligence",
@@ -16,7 +16,7 @@
         "title": "Compliance",
         "desc": "Eager to apply new knowledge from a recently completed a Diploma Program From the Universidad Tecnológica Nacional, that provided a comprehensive understanding of AML principles and compliance frameworks.",
         "data": ["Risk Assessment","Risk Management","Regulatory Compliance","Compliance Management","KYC","Customer Due Diligence","AML Protocols"],
-        "active":true, "id":"Compliance"
+        "active":false, "id":"Compliance"
     },
     {
         "title": "Data Engineering",
